@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		026632F514A403050069657C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 026632F414A403050069657C /* UIKit.framework */; };
+		026632F714A403050069657C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 026632F614A403050069657C /* Foundation.framework */; };
+		026632F914A403050069657C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 026632F814A403050069657C /* CoreGraphics.framework */; };
+		026632FF14A403050069657C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 026632FD14A403050069657C /* InfoPlist.strings */; };
+		0266330114A403050069657C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266330014A403050069657C /* main.m */; };
+		0266330514A403050069657C /* PowderAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266330414A403050069657C /* PowderAppDelegate.m */; };
+		0266330814A403050069657C /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */; };
+		0266330B14A403050069657C /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0266330914A403050069657C /* MainStoryboard_iPad.storyboard */; };
+		0266330E14A403050069657C /* PowderMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266330D14A403050069657C /* PowderMainViewController.m */; };
+		0266331114A403050069657C /* PowderFlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266331014A403050069657C /* PowderFlipsideViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		026632F014A403050069657C /* Powder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Powder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		026632F414A403050069657C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		026632F614A403050069657C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		026632F814A403050069657C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		026632FC14A403050069657C /* Powder-Info.plist */ = {isa = PBXFileReference; path = "Powder-Info.plist"; sourceTree = "<group>"; };
+		026632FE14A403050069657C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0266330014A403050069657C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0266330214A403050069657C /* Powder-Prefix.pch */ = {isa = PBXFileReference; path = "Powder-Prefix.pch"; sourceTree = "<group>"; };
+		0266330314A403050069657C /* PowderAppDelegate.h */ = {isa = PBXFileReference; path = PowderAppDelegate.h; sourceTree = "<group>"; };
+		0266330414A403050069657C /* PowderAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PowderAppDelegate.m; sourceTree = "<group>"; };
+		0266330714A403050069657C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		0266330A14A403050069657C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		0266330C14A403050069657C /* PowderMainViewController.h */ = {isa = PBXFileReference; path = PowderMainViewController.h; sourceTree = "<group>"; };
+		0266330D14A403050069657C /* PowderMainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PowderMainViewController.m; sourceTree = "<group>"; };
+		0266330F14A403050069657C /* PowderFlipsideViewController.h */ = {isa = PBXFileReference; path = PowderFlipsideViewController.h; sourceTree = "<group>"; };
+		0266331014A403050069657C /* PowderFlipsideViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PowderFlipsideViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		026632ED14A403050069657C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				026632F514A403050069657C /* UIKit.framework in Frameworks */,
+				026632F714A403050069657C /* Foundation.framework in Frameworks */,
+				026632F914A403050069657C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		026632E514A403050069657C = {
+			isa = PBXGroup;
+			children = (
+				026632FA14A403050069657C /* Powder */,
+				026632F314A403050069657C /* Frameworks */,
+				026632F114A403050069657C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		026632F114A403050069657C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				026632F014A403050069657C /* Powder.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		026632F314A403050069657C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				026632F414A403050069657C /* UIKit.framework */,
+				026632F614A403050069657C /* Foundation.framework */,
+				026632F814A403050069657C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		026632FA14A403050069657C /* Powder */ = {
+			isa = PBXGroup;
+			children = (
+				0266330314A403050069657C /* PowderAppDelegate.h */,
+				0266330414A403050069657C /* PowderAppDelegate.m */,
+				0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */,
+				0266330914A403050069657C /* MainStoryboard_iPad.storyboard */,
+				0266330C14A403050069657C /* PowderMainViewController.h */,
+				0266330D14A403050069657C /* PowderMainViewController.m */,
+				0266330F14A403050069657C /* PowderFlipsideViewController.h */,
+				0266331014A403050069657C /* PowderFlipsideViewController.m */,
+				026632FB14A403050069657C /* Supporting Files */,
+			);
+			path = Powder;
+			sourceTree = "<group>";
+		};
+		026632FB14A403050069657C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				026632FC14A403050069657C /* Powder-Info.plist */,
+				026632FD14A403050069657C /* InfoPlist.strings */,
+				0266330014A403050069657C /* main.m */,
+				0266330214A403050069657C /* Powder-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		026632EF14A403050069657C /* Powder */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0266331414A403050069657C /* Build configuration list for PBXNativeTarget "Powder" */;
+			buildPhases = (
+				026632EC14A403050069657C /* Sources */,
+				026632ED14A403050069657C /* Frameworks */,
+				026632EE14A403050069657C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Powder;
+			productName = Powder;
+			productReference = 026632F014A403050069657C /* Powder.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		026632E714A403050069657C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Imulus, LLC";
+			};
+			buildConfigurationList = 026632EA14A403050069657C /* Build configuration list for PBXProject "Powder" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 026632E514A403050069657C;
+			productRefGroup = 026632F114A403050069657C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				026632EF14A403050069657C /* Powder */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		026632EE14A403050069657C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				026632FF14A403050069657C /* InfoPlist.strings in Resources */,
+				0266330814A403050069657C /* MainStoryboard_iPhone.storyboard in Resources */,
+				0266330B14A403050069657C /* MainStoryboard_iPad.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		026632EC14A403050069657C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0266330114A403050069657C /* main.m in Sources */,
+				0266330514A403050069657C /* PowderAppDelegate.m in Sources */,
+				0266330E14A403050069657C /* PowderMainViewController.m in Sources */,
+				0266331114A403050069657C /* PowderFlipsideViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		026632FD14A403050069657C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				026632FE14A403050069657C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0266330714A403050069657C /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		0266330914A403050069657C /* MainStoryboard_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0266330A14A403050069657C /* en */,
+			);
+			name = MainStoryboard_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0266331214A403050069657C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0266331314A403050069657C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0266331514A403050069657C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Powder/Powder-Prefix.pch";
+				INFOPLIST_FILE = "Powder/Powder-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		0266331614A403050069657C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Powder/Powder-Prefix.pch";
+				INFOPLIST_FILE = "Powder/Powder-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		026632EA14A403050069657C /* Build configuration list for PBXProject "Powder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0266331214A403050069657C /* Debug */,
+				0266331314A403050069657C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0266331414A403050069657C /* Build configuration list for PBXNativeTarget "Powder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0266331514A403050069657C /* Debug */,
+				0266331614A403050069657C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 026632E714A403050069657C /* Project object */;
+}
