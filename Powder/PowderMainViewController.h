@@ -6,9 +6,9 @@
 //  Copyright (c) 2011 Imulus, LLC. All rights reserved.
 //
 
-#import "PowderFlipsideViewController.h"
+#import "PowderResortsViewController.h"
 
-@interface PowderMainViewController : UIViewController <PowderFlipsideViewControllerDelegate, UIPopoverControllerDelegate>
+@interface PowderMainViewController : UIViewController <PowderResortsViewControllerDelegate, UIPopoverControllerDelegate>
 
 @property (strong, nonatomic) UIPopoverController *flipsidePopoverController;
 

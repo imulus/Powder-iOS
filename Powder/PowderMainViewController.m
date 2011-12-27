@@ -65,7 +65,7 @@
 
 #pragma mark - Flipside View Controller
 
-- (void)flipsideViewControllerDidFinish:(PowderFlipsideViewController *)controller
+- (void)flipsideViewControllerDidFinish:(PowderResortsViewController *)controller
 {
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
         [self dismissModalViewControllerAnimated:YES];
