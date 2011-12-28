@@ -18,6 +18,7 @@
 		0266330E14A403050069657C /* PowderMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266330D14A403050069657C /* PowderMainViewController.m */; };
 		0266331114A403050069657C /* PowderResortsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266331014A403050069657C /* PowderResortsViewController.m */; };
 		027DE89F14AA61C80070F022 /* FavoriteResortTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */; };
+		02DA3AC614ABB7DF00C49DB9 /* Resort.m in Sources */ = {isa = PBXBuildFile; fileRef = 02DA3AC514ABB7DF00C49DB9 /* Resort.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,8 @@
 		0266331014A403050069657C /* PowderResortsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PowderResortsViewController.m; sourceTree = "<group>"; };
 		027DE89D14AA61C80070F022 /* FavoriteResortTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FavoriteResortTableViewCell.h; path = Code/FavoriteResortTableViewCell.h; sourceTree = "<group>"; };
 		027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FavoriteResortTableViewCell.m; path = Code/FavoriteResortTableViewCell.m; sourceTree = "<group>"; };
+		02DA3AC414ABB7DF00C49DB9 /* Resort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Resort.h; path = Code/Resort.h; sourceTree = "<group>"; };
+		02DA3AC514ABB7DF00C49DB9 /* Resort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Resort.m; path = Code/Resort.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,7 @@
 		026632FA14A403050069657C /* Powder */ = {
 			isa = PBXGroup;
 			children = (
+				02DA3AC314ABB77400C49DB9 /* Models */,
 				02DA3AC014ABB00200C49DB9 /* Views */,
 				027DE89B14AA5E1C0070F022 /* View Controllers */,
 				0266330314A403050069657C /* PowderAppDelegate.h */,
@@ -133,6 +137,15 @@
 				027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */,
 			);
 			name = "Table View Cells";
+			sourceTree = "<group>";
+		};
+		02DA3AC314ABB77400C49DB9 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				02DA3AC414ABB7DF00C49DB9 /* Resort.h */,
+				02DA3AC514ABB7DF00C49DB9 /* Resort.m */,
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,6 +217,7 @@
 				0266330E14A403050069657C /* PowderMainViewController.m in Sources */,
 				0266331114A403050069657C /* PowderResortsViewController.m in Sources */,
 				027DE89F14AA61C80070F022 /* FavoriteResortTableViewCell.m in Sources */,
+				02DA3AC614ABB7DF00C49DB9 /* Resort.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
