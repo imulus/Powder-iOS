@@ -10,6 +10,7 @@
 
 @implementation PowderMainViewController
 
+
 @synthesize flipsidePopoverController = _flipsidePopoverController;
 
 - (void)didReceiveMemoryWarning
@@ -101,6 +102,23 @@
     } else {
         [self performSegueWithIdentifier:@"showAlternate" sender:sender];
     }
+}
+
+#pragma mark - UITableViewDelegate methods
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    static NSString *cellIdentifier = @"SnowReportCell";
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
+    
+    return cell;
+}
+
+#pragma mark - UITableViewDataSource methods
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+{
+    return 5;
 }
 
 @end

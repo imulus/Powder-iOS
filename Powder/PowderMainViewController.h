@@ -8,7 +8,13 @@
 
 #import "PowderResortsViewController.h"
 
-@interface PowderMainViewController : UIViewController <PowderResortsViewControllerDelegate, UIPopoverControllerDelegate>
+@interface PowderMainViewController : UIViewController 
+<
+    PowderResortsViewControllerDelegate,
+    UITableViewDelegate,
+    UITableViewDataSource,
+    UIPopoverControllerDelegate
+>
 
 @property (strong, nonatomic) UIPopoverController *flipsidePopoverController;
 
