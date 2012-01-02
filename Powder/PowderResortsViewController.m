@@ -9,6 +9,8 @@
 #import "PowderResortsViewController.h"
 
 @implementation PowderResortsViewController
+@synthesize addRemoveButton = _addRemoveButton;
+@synthesize resortNameLabel = _resortNameLabel;
 
 @synthesize delegate = _delegate;
 
@@ -34,6 +36,8 @@
 
 - (void)viewDidUnload
 {
+    [self setAddRemoveButton:nil];
+    [self setResortNameLabel:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;

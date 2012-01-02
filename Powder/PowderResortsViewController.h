@@ -17,6 +17,8 @@
 @interface PowderResortsViewController : UIViewController
 
 @property (weak, nonatomic) IBOutlet id <PowderResortsViewControllerDelegate> delegate;
+@property (weak, nonatomic) IBOutlet UIButton *addRemoveButton;
+@property (weak, nonatomic) IBOutlet UILabel *resortNameLabel;
 
 - (IBAction)done:(id)sender;
 
