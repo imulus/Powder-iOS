@@ -19,5 +19,6 @@
 @property (nonatomic, strong) NSString *totalSnowMetricSymbol;
 @property (nonatomic, assign) bool isOpen;
 @property (nonatomic, strong) NSString *currentConditions;
+@property (nonatomic, strong) NSString *snowReportID;
 
 @end

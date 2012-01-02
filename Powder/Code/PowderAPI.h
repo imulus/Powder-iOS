@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Resort.h"
 
 @class PowderAPI;
 
@@ -26,5 +27,7 @@
 @property (nonatomic, weak) id<PowderAPIDelegate> delegate;
 
 - (void)retrieveResorts;
+- (Resort *)resortWithSnowReportID:(NSString *)snowReportID;
+- (BOOL)hasUpdatedResorts;
 
 @end

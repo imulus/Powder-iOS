@@ -91,6 +91,7 @@
 		026632FA14A403050069657C /* Powder */ = {
 			isa = PBXGroup;
 			children = (
+				029071FE14B2615000549D55 /* New Group */,
 				02DA3AC314ABB77400C49DB9 /* Models */,
 				02DA3AC014ABB00200C49DB9 /* Views */,
 				027DE89B14AA5E1C0070F022 /* View Controllers */,
@@ -125,6 +126,13 @@
 				0266331014A403050069657C /* PowderResortsViewController.m */,
 			);
 			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		029071FE14B2615000549D55 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 		02DA3AC014ABB00200C49DB9 /* Views */ = {
