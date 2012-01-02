@@ -17,5 +17,7 @@
 @synthesize totalSnowAmount = _totalSnowAmount;
 @synthesize totalSnowMetric = _totalSnowMetric;
 @synthesize totalSnowMetricSymbol = _totalSnowMetricSymbol;
+@synthesize isOpen = _isOpen;
+@synthesize currentConditions = _currentConditions;
 
 @end

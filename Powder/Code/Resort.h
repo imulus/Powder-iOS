@@ -14,8 +14,10 @@
 @property (nonatomic, assign) int todaysSnowAmount;
 @property (nonatomic, assign) int totalSnowAmount;
 @property (nonatomic, strong) NSString *todaysSnowMetric;
-@property (nonatomic, assign) NSString *todaysSnowMetricSymbol;
-@property (nonatomic, assign) NSString *totalSnowMetric;
-@property (nonatomic, assign) NSString *totalSnowMetricSymbol;
+@property (nonatomic, strong) NSString *todaysSnowMetricSymbol;
+@property (nonatomic, strong) NSString *totalSnowMetric;
+@property (nonatomic, strong) NSString *totalSnowMetricSymbol;
+@property (nonatomic, assign) bool isOpen;
+@property (nonatomic, strong) NSString *currentConditions;
 
 @end

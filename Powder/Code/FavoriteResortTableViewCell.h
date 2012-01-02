@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Resort.h"
 
 @interface FavoriteResortTableViewCell : UITableViewCell
 
@@ -15,5 +16,6 @@
 @property (weak, nonatomic) IBOutlet UILabel *conditionLabel;
 @property (weak, nonatomic) IBOutlet UILabel *baseLabel;
 @property (weak, nonatomic) IBOutlet UILabel *addedLabel;
+@property (strong, nonatomic) Resort *resort;
 
 @end

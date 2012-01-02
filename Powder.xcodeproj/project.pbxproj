@@ -18,6 +18,7 @@
 		0266330E14A403050069657C /* PowderMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266330D14A403050069657C /* PowderMainViewController.m */; };
 		0266331114A403050069657C /* PowderResortsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266331014A403050069657C /* PowderResortsViewController.m */; };
 		027DE89F14AA61C80070F022 /* FavoriteResortTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */; };
+		029071F814B2450F00549D55 /* PowderAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 029071F714B2450F00549D55 /* PowderAPI.m */; };
 		02DA3AC614ABB7DF00C49DB9 /* Resort.m in Sources */ = {isa = PBXBuildFile; fileRef = 02DA3AC514ABB7DF00C49DB9 /* Resort.m */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +41,8 @@
 		0266331014A403050069657C /* PowderResortsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PowderResortsViewController.m; sourceTree = "<group>"; };
 		027DE89D14AA61C80070F022 /* FavoriteResortTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FavoriteResortTableViewCell.h; path = Code/FavoriteResortTableViewCell.h; sourceTree = "<group>"; };
 		027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FavoriteResortTableViewCell.m; path = Code/FavoriteResortTableViewCell.m; sourceTree = "<group>"; };
+		029071F614B2450F00549D55 /* PowderAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PowderAPI.h; path = Code/PowderAPI.h; sourceTree = "<group>"; };
+		029071F714B2450F00549D55 /* PowderAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PowderAPI.m; path = Code/PowderAPI.m; sourceTree = "<group>"; };
 		02DA3AC414ABB7DF00C49DB9 /* Resort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Resort.h; path = Code/Resort.h; sourceTree = "<group>"; };
 		02DA3AC514ABB7DF00C49DB9 /* Resort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Resort.m; path = Code/Resort.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -96,6 +99,8 @@
 				0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */,
 				0266330914A403050069657C /* MainStoryboard_iPad.storyboard */,
 				026632FB14A403050069657C /* Supporting Files */,
+				029071F614B2450F00549D55 /* PowderAPI.h */,
+				029071F714B2450F00549D55 /* PowderAPI.m */,
 			);
 			path = Powder;
 			sourceTree = "<group>";
@@ -218,6 +223,7 @@
 				0266331114A403050069657C /* PowderResortsViewController.m in Sources */,
 				027DE89F14AA61C80070F022 /* FavoriteResortTableViewCell.m in Sources */,
 				02DA3AC614ABB7DF00C49DB9 /* Resort.m in Sources */,
+				029071F814B2450F00549D55 /* PowderAPI.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
