@@ -8,7 +8,12 @@
 
 #import "PowderAPI.h"
 
-@interface PowderAPI (Private)
+//This is a class extension, which is kind of like a category, but it can add instance
+//variables
+@interface PowderAPI ()
+{
+    NSMutableDictionary *_resortsByID;   
+}
 
 - (void)tellDelegateAboutError:(NSError *)error;
 - (Resort *)resortFromJSONDictionary:(NSDictionary *)dictionary;
@@ -20,6 +25,18 @@
 @synthesize resorts = _resorts;
 @synthesize delegate;
 
+- (id)init
+{
+    if(self = [super init])
+    {
+        _resortsByID = [[NSMutableDictionary alloc] init];
+    }
+    
+    return self;    
+}
+
+
+//get all the resorts from the API
 - (void)retrieveResorts
 {
     NSMutableArray *newResorts = [[NSMutableArray alloc] init];
@@ -31,15 +48,23 @@
         resort.name = [NSString stringWithFormat:@"%@ %i", resort.name, resortIdx + 1];
         resort.snowReportID = resort.name;
         [newResorts addObject:resort];
+        [_resortsByID setObject:resort forKey:resort.snowReportID];
         
     }
     
+    self.resorts = newResorts;
     [delegate powderAPI:self didRetrieveResorts:newResorts];
 }
 
-@end
+- (Resort *)resortWithSnowReportID:(NSString *)snowReportID
+{
+    return [_resortsByID objectForKey:snowReportID];
+}
 
-@implementation PowderAPI (Private)
+- (BOOL)hasUpdatedResorts
+{
+    return self.resorts.count > 0;
+}
 
 - (void)tellDelegateAboutError:(NSError *)error
 {
@@ -53,6 +78,7 @@
     });
 }
 
+//create a resort from the dictonary parsed from the JSON object
 - (Resort *)resortFromJSONDictionary:(NSDictionary *)dictionary
 {
     Resort *resort = [[Resort alloc] init];
