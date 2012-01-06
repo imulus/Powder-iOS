@@ -16,6 +16,7 @@
 @synthesize baseLabel = _baseLabel;
 @synthesize addedLabel = _addedLabel;
 @synthesize resort = _resort;
+@synthesize favorite = _favorite;
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
 {
@@ -24,6 +25,14 @@
         // Initialization code
     }
     return self;
+}
+
+- (void)setFavorite:(Favorite *)favorite
+{
+    _favorite = favorite;
+    
+    self.resortNameLabel.text = favorite.resortName;
+
 }
 
 - (void)setResort:(Resort *)resort

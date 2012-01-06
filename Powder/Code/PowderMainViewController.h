@@ -17,5 +17,6 @@
 >
 
 @property (strong, nonatomic) UIPopoverController *flipsidePopoverController;
+@property (strong, nonatomic) NSArray *favorites;
 
 @end

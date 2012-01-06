@@ -8,10 +8,17 @@
 
 #import "PowderMainViewController.h"
 
+@interface PowderMainViewController ()
+
+- (void)loadFavorites;
+
+@end
+
 @implementation PowderMainViewController
 
 
 @synthesize flipsidePopoverController = _flipsidePopoverController;
+@synthesize favorites = _favorites;
 
 - (void)didReceiveMemoryWarning
 {
@@ -24,7 +31,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
 }
 
 - (void)viewDidUnload
@@ -62,6 +69,11 @@
     } else {
         return YES;
     }
+}
+
+- (void)loadFavorites
+{
+    
 }
 
 #pragma mark - Flipside View Controller

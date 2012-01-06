@@ -17,6 +17,7 @@
 
 - (void)tellDelegateAboutError:(NSError *)error;
 - (Resort *)resortFromJSONDictionary:(NSDictionary *)dictionary;
+- (NSURL *)resortsUrl;
 
 @end
 
@@ -39,14 +40,17 @@
 //get all the resorts from the API
 - (void)retrieveResorts
 {
+    
+    NSData *resortData = [[NSData alloc] initWithContentsOfURL:
+                          [self resortsUrl]];
+
+    NSArray *resorts =  [NSJSONSerialization JSONObjectWithData:resortData options:NSJSONReadingAllowFragments error:nil];
+    
     NSMutableArray *newResorts = [[NSMutableArray alloc] init];
     //create some temporary objects to show in our display
-    for(int resortIdx = 0; resortIdx < 15; ++resortIdx)
+    for(NSDictionary *resortDict in resorts)
     {
-        NSMutableArray *newResorts = [[NSMutableArray alloc] init];
-        Resort *resort = [self resortFromJSONDictionary:nil];
-        resort.name = [NSString stringWithFormat:@"%@ %i", resort.name, resortIdx + 1];
-        resort.snowReportID = resort.name;
+        Resort *resort = [self resortFromJSONDictionary:resortDict];
         [newResorts addObject:resort];
         [_resortsByID setObject:resort forKey:resort.snowReportID];
         
@@ -83,17 +87,32 @@
 {
     Resort *resort = [[Resort alloc] init];
     
-    resort.name = @"Vail";
-    resort.totalSnowAmount = 30;
-    resort.totalSnowMetric = @"inches";
-    resort.totalSnowMetricSymbol = @"\"";
-    resort.todaysSnowAmount = 2;
-    resort.todaysSnowMetric = @"inches";
-    resort.todaysSnowMetricSymbol = @"\"";
-    resort.currentConditions = @"Lot's of crashing skiers";
-    resort.isOpen = YES;
+    resort.snowReportID = [[dictionary objectForKey:@"id"] stringValue];
+    resort.name = [[dictionary objectForKey:@"name"] stringValue];
+    resort.isOpen = [[[dictionary objectForKey:@"status"] stringValue] isEqualToString:@"Open"];
+    resort.currentConditions = [[dictionary objectForKey:@"conditions"] stringValue];
+    NSDictionary *currentTotal = [dictionary objectForKey:@"base"];
+    if(nil != currentTotal)
+    {
+        resort.totalSnowAmount = [[currentTotal objectForKey:@"depth"] intValue];
+        resort.totalSnowMetric = [[currentTotal objectForKey:@"metric"] stringValue];
+        resort.totalSnowMetricSymbol = [[currentTotal objectForKey:@"metric_shorthand"] stringValue];        
+    }
+    
+    NSDictionary *todayTotal = [dictionary objectForKey:@"snowfall"];
+    if(nil != todayTotal)
+    {
+        resort.todaysSnowAmount = [[todayTotal objectForKey:@"amount"] intValue];
+        resort.todaysSnowMetric = [[todayTotal objectForKey:@"metric"] stringValue];
+        resort.todaysSnowMetricSymbol = [[todayTotal objectForKey:@"metric_shorthand"] stringValue];
+    }
     
     return resort;    
+}
+     
+- (NSURL *)resortsUrl
+{
+        return [NSURL URLWithString:[[NSBundle mainBundle] pathForResource:@"resorts" ofType:@"json"]];
 }
 
 @end
