@@ -1,0 +1,7098 @@
+ [{
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "aa586839b65764f979c7b860e91dc5f1",
+  "name": "49 Degrees North",
+  "updated": "Thu, 5 Jan 2012 11:05:37 -0500",
+  "status": "Open",
+  "conditions": "Skiers Packed",
+  "base": {
+  "depth": "63",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "1da00431be0076c048e6323b62c0ab44",
+  "name": "Afton Alps",
+  "updated": "Thu, 5 Jan 2012 10:00:46 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "27",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "04522234bf0d7397a8e2fcb4d2d38c0c",
+  "name": "Alpental",
+  "updated": "Thu, 5 Jan 2012 11:05:56 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "84",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "131005ab101c2a259e85bdb11472843c",
+  "name": "Alpine Meadows",
+  "updated": "Thu, 5 Jan 2012 10:11:19 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "0c044b78a62a9bfbf1991e0e0401f557",
+  "name": "Alpine Mountain",
+  "updated": "Thu, 5 Jan 2012 10:18:09 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "ohio",
+  "filter_key": "ohio"
+  },
+  "id": "a07ac3cbcbcb5d350612a813a3a07cb5",
+  "name": "Alpine Valley",
+  "updated": "Tue, 3 Jan 2012 09:46:23 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "f32021731931dacdfc6d210bce66e213",
+  "name": "Alpine Valley",
+  "updated": "Thu, 5 Jan 2012 08:46:28 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "29",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "69b005ac365bdfc86184181ae8aa3471",
+  "name": "Alpine Valley",
+  "updated": "Sun, 1 Jan 2012 13:12:18 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "15f6bc95505628f1ccd9c5af078b8a2e",
+  "name": "Alta",
+  "updated": "Thu, 5 Jan 2012 11:23:23 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "33",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "alaska",
+  "filter_key": "alaska"
+  },
+  "id": "7406558481658828e3349fa10e29da4f",
+  "name": "Alyeska",
+  "updated": "Thu, 5 Jan 2012 08:52:38 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "102",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "6",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "81b814d333ca2ba4be335ab13bae2344",
+  "name": "Andes Tower Hills",
+  "updated": "Sat, 31 Dec 2011 09:21:46 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "1ad7003c4ab7af3c0b253dc147df8d6a",
+  "name": "Angel Fire",
+  "updated": "Thu, 5 Jan 2012 10:53:53 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "31",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "1e226e124f57d9edc578fc987f113511",
+  "name": "Anthony Lakes",
+  "updated": "Thu, 5 Jan 2012 11:21:19 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "33",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "north-carolina",
+  "filter_key": "north-carolina"
+  },
+  "id": "e7dc208a030ea416386d2f6ac612e7e3",
+  "name": "Appalachian Mtn",
+  "updated": "Thu, 5 Jan 2012 06:26:39 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "40",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "8c16bbfe4429251ecd735dfa799db87f",
+  "name": "Apple Mountain",
+  "updated": "Thu, 5 Jan 2012 08:45:58 -0500",
+  "status": "Limited Open",
+  "conditions": "Wet",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "1af3c0e821d21e483c47b69481307344",
+  "name": "Arapahoe Basin",
+  "updated": "Thu, 5 Jan 2012 10:14:42 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "26",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "arizona",
+  "filter_key": "arizona"
+  },
+  "id": "3ef945537d7bf8b08fcbd8d1270487d4",
+  "name": "Arizona Snowbowl",
+  "updated": "Thu, 5 Jan 2012 08:16:30 -0500",
+  "status": "Open",
+  "conditions": "Skiers Packed",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "83e157d05bbe376ebfa512b80bc167ba",
+  "name": "Ascutney",
+  "updated": "Thu, 5 Jan 2012 08:02:12 -0500",
+  "status": "Permanently closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "e4e3e4275e6f6e672b878ec6e1075e97",
+  "name": "Aspen / Snowmass",
+  "updated": "Thu, 5 Jan 2012 10:14:47 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "34",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "5b2c595941d34663ef276b93ec666277",
+  "name": "Attitash",
+  "updated": "Thu, 5 Jan 2012 07:30:54 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "66ebaca4aec035e733aadf81e9b6f675",
+  "name": "Badger Pass",
+  "updated": "Thu, 5 Jan 2012 10:11:30 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "4",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "3921591e3324141a93f431211e6872aa",
+  "name": "Balsams Wilderness",
+  "updated": "Thu, 5 Jan 2012 07:31:38 -0500",
+  "status": "No Report Available",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "715c8c57ab91d48b384a35f04786fd39",
+  "name": "Bear Creek",
+  "updated": "Thu, 5 Jan 2012 06:03:27 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "83d8bf5024e1816a766603549a312a98",
+  "name": "Bear Mountain",
+  "updated": "Thu, 5 Jan 2012 10:08:29 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "af9ee7f9dea3e97f42423339dd81e66d",
+  "name": "Bear Valley",
+  "updated": "Thu, 5 Jan 2012 10:11:05 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "8cfb0ccc19cbfc4881033be180985991",
+  "name": "Beaver Creek",
+  "updated": "Thu, 5 Jan 2012 10:14:58 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "ef25804cf6a454784701544715dd286f",
+  "name": "Beaver Mountain",
+  "updated": "Thu, 5 Jan 2012 11:23:35 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "f4c38e7e27652d9cd0708324d965acd2",
+  "name": "Belleayre",
+  "updated": "Thu, 5 Jan 2012 02:19:24 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "19",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "f4544033e2f1c6d5c3ea877ae3a88c4d",
+  "name": "Berkshire East",
+  "updated": "Thu, 5 Jan 2012 08:15:33 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "6f58c22a3554d148757b1f72fce29f08",
+  "name": "Big Bear",
+  "updated": "Thu, 5 Jan 2012 10:28:19 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "176f57608203d314df835dcb1230bcab",
+  "name": "Big Boulder",
+  "updated": "Thu, 5 Jan 2012 10:33:41 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "b0a5bb35dbeefc8dfe23b92d34e1eda7",
+  "name": "Big Powderhorn Mtn.",
+  "updated": "Thu, 5 Jan 2012 08:44:48 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "102f4dfcb1d0e3866de7576998e1a6f3",
+  "name": "Big Sky",
+  "updated": "Thu, 5 Jan 2012 10:26:17 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "50",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "b24aca6cf2c49e21d35677d6d3342022",
+  "name": "Big Squaw",
+  "updated": "Sun, 1 Jan 2012 12:53:01 -0500",
+  "status": "Permanently closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "9d70ed71c03119e616d098ffc1f2113b",
+  "name": "Bittersweet",
+  "updated": "Thu, 5 Jan 2012 08:42:29 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "11",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "6",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "f3c791a6f4f2cae00710139ebd7afa5a",
+  "name": "Black Mountain",
+  "updated": "Thu, 5 Jan 2012 07:32:56 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "f892cb9c2fc8be6bcca84e8e656991ff",
+  "name": "Blackjack",
+  "updated": "Thu, 5 Jan 2012 08:53:07 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "bc0399c6e2c1412d23ee42e4f51abfd6",
+  "name": "Blacktail Mountain",
+  "updated": "Thu, 5 Jan 2012 10:26:03 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "48",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "09ba172471f5a3f94a9ca30c2c776ac7",
+  "name": "Blandford",
+  "updated": "Thu, 5 Jan 2012 08:19:14 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Variable",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "8cc5dbb10468b4eed9ee19cc8e665bcd",
+  "name": "Blue Hills",
+  "updated": "Thu, 5 Jan 2012 08:20:30 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "15",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "43a71c8cf6ded985357d78ae7a45aa6d",
+  "name": "Blue Knob",
+  "updated": "Thu, 5 Jan 2012 10:34:58 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "80e8bc2ae15b4c78aa399facd49c9368",
+  "name": "Blue Mountain",
+  "updated": "Thu, 5 Jan 2012 10:36:31 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "2b4a4cfc2c55e9abab7eea54ab074165",
+  "name": "Bluewood",
+  "updated": "Thu, 5 Jan 2012 11:11:27 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "33",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "cdd991c555e1382a06fc2c895d58fbde",
+  "name": "Bogus Basin",
+  "updated": "Thu, 5 Jan 2012 10:27:25 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "d46cfa009393ced91fe55f8e2ec0faaa",
+  "name": "Bolton Valley",
+  "updated": "Thu, 5 Jan 2012 08:16:14 -0500",
+  "status": "Open",
+  "conditions": "Frozen Granular",
+  "base": {
+  "depth": "15",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "1680fc515c923bb244fe24bb39bd8bda",
+  "name": "Boreal",
+  "updated": "Thu, 5 Jan 2012 10:11:35 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "ohio",
+  "filter_key": "ohio"
+  },
+  "id": "7d150f97164fa7a9e3730e04673259d5",
+  "name": "Boston Mills",
+  "updated": "Thu, 5 Jan 2012 10:00:06 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "16",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "e5c0f402c2e62209b7787e5dd5eb1710",
+  "name": "Bousquet",
+  "updated": "Thu, 5 Jan 2012 08:15:14 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "3d21615506a59b9170bdcc7034b1beae",
+  "name": "Boyne Highlands",
+  "updated": "Thu, 5 Jan 2012 02:07:09 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "45",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "dd957ee8330dfbc360b58179ba76bbc6",
+  "name": "Boyne Mountain",
+  "updated": "Thu, 5 Jan 2012 02:06:14 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "40",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "ffd613706048025f58ec9e9da825dc8b",
+  "name": "Bradford",
+  "updated": "Thu, 5 Jan 2012 08:11:37 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "ohio",
+  "filter_key": "ohio"
+  },
+  "id": "0a3db3c8d3d3f025200ccefd1569bddb",
+  "name": "Brandywine",
+  "updated": "Thu, 5 Jan 2012 10:00:16 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "16",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "236968aba2f336a12800e73c46ac23b3",
+  "name": "Brantling Ski",
+  "updated": "Thu, 5 Jan 2012 10:44:02 -0500",
+  "status": "Limited Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "5a94e40978b4ef2340efdbc6630f75bc",
+  "name": "Breckenridge",
+  "updated": "Thu, 5 Jan 2012 10:14:52 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "29",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "2ba641303aa38f3cea8216ee24f662d3",
+  "name": "Bretton Woods",
+  "updated": "Thu, 5 Jan 2012 07:29:57 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "0929c98021adba39550202183fa00a77",
+  "name": "Brian Head",
+  "updated": "Thu, 5 Jan 2012 11:19:42 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "19",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "f595841f3f1e720fc127d9a0e2983b68",
+  "name": "Bridger Bowl",
+  "updated": "Thu, 5 Jan 2012 11:00:46 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "65adf92c7290646144754403bcceee94",
+  "name": "Brighton",
+  "updated": "Thu, 5 Jan 2012 11:19:09 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "35",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "140178244427b68c387c48d94b2f12a8",
+  "name": "Bristol Mountain",
+  "updated": "Thu, 5 Jan 2012 10:14:53 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "5cc79eb67a43991f5a5db739eb0d25cf",
+  "name": "Bromley",
+  "updated": "Thu, 5 Jan 2012 06:41:22 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "134750cd8eb398d6125198a36935e2d3",
+  "name": "Brundage Mountain",
+  "updated": "Thu, 5 Jan 2012 10:27:39 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "virginia",
+  "filter_key": "virginia"
+  },
+  "id": "f4911f3aae4121eb2db6081367ab6a5e",
+  "name": "Bryce Resort",
+  "updated": "Thu, 5 Jan 2012 01:25:26 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "52",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "cec4baefb5ae10861f904a1089c7f076",
+  "name": "Buck Hill",
+  "updated": "Sat, 31 Dec 2011 09:20:48 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "127addd91c38383f75831080b6a7c43e",
+  "name": "Buena Vista",
+  "updated": "Sat, 31 Dec 2011 09:20:10 -0500",
+  "status": "No Report Available",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "1aa954f195d87492ca53d42af87e6918",
+  "name": "Buffalo Ski Club",
+  "updated": "Thu, 5 Jan 2012 10:07:45 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "a96c4b24439c212fb3b0aa92060f33e4",
+  "name": "Burke Mountain",
+  "updated": "Thu, 5 Jan 2012 06:42:10 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "3",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "1a390c6ee0a5813cfa26a0570af3ec07",
+  "name": "Caberfae Peaks",
+  "updated": "Thu, 5 Jan 2012 08:47:08 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "48",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "ac7dd2c7ddfb183ee3ef5e0978bcfe1e",
+  "name": "Camden",
+  "updated": "Thu, 5 Jan 2012 07:47:07 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "c20017e359dfa46e9d6086900f05e04e",
+  "name": "Camelback",
+  "updated": "Thu, 5 Jan 2012 10:37:17 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-jersey",
+  "filter_key": "new-jersey"
+  },
+  "id": "4b39c71414ffd0bcf9f0c77dfa65656a",
+  "name": "Campgaw Mountain",
+  "updated": "Sat, 31 Dec 2011 09:33:17 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "west-virginia",
+  "filter_key": "west-virginia"
+  },
+  "id": "398ca4b436be93d97d3a4278a16f4312",
+  "name": "Canaan Valley",
+  "updated": "Thu, 5 Jan 2012 05:25:36 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "5",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "7cb6c7ea2530925f7bf3a22c6c59a5f7",
+  "name": "Cannon Mountain",
+  "updated": "Thu, 5 Jan 2012 02:18:02 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "6",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "070df24d3cf6e96930e71fd23329744b",
+  "name": "Cannonsburg",
+  "updated": "Thu, 5 Jan 2012 08:52:55 -0500",
+  "status": "Limited Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "a86fbb618750efb2a7046f03322fd43f",
+  "name": "Cascade Mountain",
+  "updated": "Thu, 5 Jan 2012 10:17:53 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "31",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "north-carolina",
+  "filter_key": "north-carolina"
+  },
+  "id": "664664a40e2e398a5447b218fc3ab495",
+  "name": "Cataloochee",
+  "updated": "Wed, 4 Jan 2012 01:35:02 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "50",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "1925f51d6f23b3082c28d8eaaa1abdf7",
+  "name": "Catamount",
+  "updated": "Thu, 5 Jan 2012 10:44:53 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "illinois",
+  "filter_key": "illinois"
+  },
+  "id": "29a77b1925f4c276b516c39a383d89a2",
+  "name": "Chestnut Mountain",
+  "updated": "Sat, 31 Dec 2011 07:34:15 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "482cf75968e686c18562f73514c1db41",
+  "name": "China Peak",
+  "updated": "Thu, 5 Jan 2012 12:04:32 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "c71043fe7566c9ea096432010f56c754",
+  "name": "Christie Mountain",
+  "updated": "Thu, 5 Jan 2012 06:41:35 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "31",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "95fa63dadbf92659564fece56d6a4d38",
+  "name": "Christmas Mountain",
+  "updated": "Sun, 1 Jan 2012 13:12:31 -0500",
+  "status": "Limited Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "4be35f1ac211292100c97e65a23c4011",
+  "name": "Cockaigne",
+  "updated": "Mon, 2 Jan 2012 09:17:10 -0500",
+  "status": "Permanently closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "eb33b531ead714acaaf8c6be82359a63",
+  "name": "Coffee Mill",
+  "updated": "Sat, 31 Dec 2011 09:19:08 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "497468e5547241a89a5acdebcd20b30a",
+  "name": "Cooper Spur",
+  "updated": "Thu, 5 Jan 2012 11:21:29 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "897b1545bac6cad54188526a575d4c8f",
+  "name": "Copper Mountain",
+  "updated": "Thu, 5 Jan 2012 10:15:10 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "22",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "1c599c4f318a4555436f1398a0b1633a",
+  "name": "Cranmore Mountain",
+  "updated": "Thu, 5 Jan 2012 07:34:14 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "0825551e4ac8ddc7c1fa5849c7d778ab",
+  "name": "Crested Butte",
+  "updated": "Thu, 5 Jan 2012 10:14:38 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "e7a3df96bf50325d4614dd76e81f37a0",
+  "name": "Crotched Mountain",
+  "updated": "Thu, 5 Jan 2012 07:34:41 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "1bff09c666586cbd729a4e79dcd4f205",
+  "name": "Crystal Mountain",
+  "updated": "Thu, 5 Jan 2012 11:10:56 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "64",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "5ef9d934963e5a68b460b3629b1431cc",
+  "name": "Crystal Mountain",
+  "updated": "Thu, 5 Jan 2012 08:00:46 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "35",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "ca73196a7c533dfb183da1f7720f271a",
+  "name": "Dartmouth Skiway",
+  "updated": "Thu, 5 Jan 2012 07:35:09 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "dd9014d4f0fd5b3e70402c8fbca00a49",
+  "name": "Deer Valley",
+  "updated": "Thu, 5 Jan 2012 11:18:08 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "29",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "8e1222955a04e0c0a45c37365c4851c4",
+  "name": "Devils Head",
+  "updated": "Thu, 5 Jan 2012 10:18:02 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "nevada",
+  "filter_key": "nevada"
+  },
+  "id": "49461b00bbebd74ddb19d1d7f876c375",
+  "name": "Diamond Peak",
+  "updated": "Thu, 5 Jan 2012 10:56:19 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "880d8e2a6143a16c60abcb01b5748f72",
+  "name": "Discovery Ski",
+  "updated": "Thu, 5 Jan 2012 10:25:22 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "34",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "8d24f21146549a0f83cb48fab656980d",
+  "name": "Dodge Ridge",
+  "updated": "Thu, 5 Jan 2012 10:11:43 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "8",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "9f450e73801770ad36e89e74cc32f7cf",
+  "name": "Donner Ski Ranch",
+  "updated": "Thu, 5 Jan 2012 10:11:52 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "81f612902ae74036d2771e52ecf70143",
+  "name": "Dry Hill",
+  "updated": "Thu, 5 Jan 2012 02:16:14 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "94c45616d8a953363cacca11cfc47bae",
+  "name": "Durango",
+  "updated": "Thu, 5 Jan 2012 10:15:15 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "34",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "5f5a16c43fe15101c9ef71048db7c691",
+  "name": "Eagle Point",
+  "updated": "Thu, 5 Jan 2012 11:19:30 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "0deb7e36eb0807da980f9c4a971e2103",
+  "name": "Eagle Rock",
+  "updated": "Wed, 4 Jan 2012 09:18:30 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Variable",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "alaska",
+  "filter_key": "alaska"
+  },
+  "id": "6844f62e29cc97bd0b17073fd0c0aeda",
+  "name": "Eaglecrest",
+  "updated": "Thu, 5 Jan 2012 10:07:55 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "150",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "4",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "f72f0455f9600356e22773f33b9d8c61",
+  "name": "Echo Mountain",
+  "updated": "Thu, 5 Jan 2012 10:15:05 -0500",
+  "status": "Open",
+  "conditions": "Hard Packed",
+  "base": {
+  "depth": "35",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "6657808c1a47e8c7e08de3947c3c1422",
+  "name": "Eldora",
+  "updated": "Thu, 5 Jan 2012 10:46:50 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "32",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "66a982370445c54a4272ff2d8a9e1ed1",
+  "name": "Elk Mountain",
+  "updated": "Thu, 5 Jan 2012 07:42:22 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "nevada",
+  "filter_key": "nevada"
+  },
+  "id": "28209e9a399a810745301a0881f6a4eb",
+  "name": "Elko SnoBowl",
+  "updated": "Thu, 5 Jan 2012 10:56:13 -0500",
+  "status": "Limited Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "4571da10ce9e02e3149681f2e9b38dbe",
+  "name": "Enchanted Forest",
+  "updated": "Thu, 5 Jan 2012 11:00:13 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "illinois",
+  "filter_key": "illinois"
+  },
+  "id": "2f988d158a8b1c90f0cd9ad0ec2ed7ed",
+  "name": "Four Lakes",
+  "updated": "Wed, 4 Jan 2012 00:13:20 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "e23d5b28f457db45b86a0d637be9e68f",
+  "name": "Giants Ridge",
+  "updated": "Sat, 31 Dec 2011 09:17:15 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "a31f02ec9c4f8fc00d18afe3f51fb404",
+  "name": "Gore Mountain",
+  "updated": "Thu, 5 Jan 2012 02:05:27 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "21",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "574fa17491d2c617d1b6bc0cd79378e8",
+  "name": "Grand Geneva",
+  "updated": "Wed, 4 Jan 2012 08:54:46 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wyoming",
+  "filter_key": "wyoming"
+  },
+  "id": "beee1e3e6fec238fc5e1234d14a3df2b",
+  "name": "Grand Targhee",
+  "updated": "Thu, 5 Jan 2012 11:11:32 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "47",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "98385a33e74ffbe0dbc4a39db97255e9",
+  "name": "Granite Gorge",
+  "updated": "Thu, 5 Jan 2012 07:35:41 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "78647ed764a26316b522379760006175",
+  "name": "Granite Peak",
+  "updated": "Thu, 5 Jan 2012 12:07:47 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "0eb950ba96c6ab3e2ede7a7856a9959e",
+  "name": "Great Divide",
+  "updated": "Thu, 5 Jan 2012 10:25:13 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "42166f792261b71bb2ea57d008ee46dd",
+  "name": "Greek Peak",
+  "updated": "Thu, 5 Jan 2012 08:59:43 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "22",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "3",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "84597677f7fdcb3fe7f81ecbcc1f320e",
+  "name": "Gunstock",
+  "updated": "Thu, 5 Jan 2012 02:19:34 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "dca68202b7586f34209d1414d372c7bb",
+  "name": "Heavenly",
+  "updated": "Thu, 5 Jan 2012 10:11:58 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "601bbb6b864a2caf0bd81cf4815615b3",
+  "name": "Hickory Ski Center",
+  "updated": "Thu, 5 Jan 2012 08:57:25 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "missouri",
+  "filter_key": "missouri"
+  },
+  "id": "fae18ede9a756ec6b738980d02f80507",
+  "name": "Hidden Valley",
+  "updated": "Sat, 19 Mar 2011 10:30:17 -0400",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "5ef0c2b66ef6bc1e3cab21c00d379c51",
+  "name": "Hidden Valley",
+  "updated": "Thu, 5 Jan 2012 06:41:07 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "33",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "a9e4755f4143a3859c5075906d2b4359",
+  "name": "Hidden Valley",
+  "updated": "Sun, 1 Jan 2012 13:12:57 -0500",
+  "status": "No Report Available",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-jersey",
+  "filter_key": "new-jersey"
+  },
+  "id": "4dddaf0436077c6fea1423b6902d2915",
+  "name": "Hidden Valley",
+  "updated": "Mon, 2 Jan 2012 02:24:29 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "bcb2da870f22945096e1803135c05e6d",
+  "name": "Highlands of Olympia",
+  "updated": "Sun, 1 Jan 2012 13:13:38 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "alaska",
+  "filter_key": "alaska"
+  },
+  "id": "a1555ae19875e6590a53d47b793ab1c1",
+  "name": "Hilltop",
+  "updated": "Thu, 5 Jan 2012 08:52:16 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wyoming",
+  "filter_key": "wyoming"
+  },
+  "id": "7520fd25aad128ba1fd1f017bbf0db76",
+  "name": "Hogadon",
+  "updated": "Thu, 5 Jan 2012 11:06:02 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "d9697c0e8a4e42a5292cb6013e083a99",
+  "name": "Holiday Mountain",
+  "updated": "Thu, 5 Jan 2012 08:56:45 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "25fcd570eb92bc890fa369066d21b1ea",
+  "name": "Holiday Valley",
+  "updated": "Thu, 5 Jan 2012 02:06:30 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "44",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "1775801c16dd89f2639f6c96d65c7598",
+  "name": "Holimont Ski Area",
+  "updated": "Thu, 5 Jan 2012 02:06:41 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "c9d8e17f7e001a572e6e4e44744c9507",
+  "name": "Homewood",
+  "updated": "Thu, 5 Jan 2012 10:12:39 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "c9296a011201ab9f8077d9c34dacbf32",
+  "name": "Hoodoo",
+  "updated": "Thu, 5 Jan 2012 11:21:43 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "27",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "fa3a248657a053765d850d1524fff134",
+  "name": "Howelsen Hill",
+  "updated": "Thu, 5 Jan 2012 10:15:42 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "2733e2a2d92ffda863b6eb6ba8fc0267",
+  "name": "Hunter Mountain",
+  "updated": "Thu, 5 Jan 2012 14:10:34 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "50",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "631322aaf023a73e9c13006ddf0fd257",
+  "name": "Hyland Ski",
+  "updated": "Thu, 5 Jan 2012 12:04:11 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "5ab384ab8b736e2ea84574796b24308f",
+  "name": "Indianhead",
+  "updated": "Thu, 5 Jan 2012 10:00:59 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "42",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "1b73f614f8990282f5181b46ba5548bd",
+  "name": "Jack Frost",
+  "updated": "Thu, 5 Jan 2012 10:34:16 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wyoming",
+  "filter_key": "wyoming"
+  },
+  "id": "41c4f7c64ea779a37cf62d472664e0ae",
+  "name": "Jackson Hole",
+  "updated": "Thu, 5 Jan 2012 11:05:42 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "42",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "043030add430649dbe6382290ec2a51c",
+  "name": "Jay Peak",
+  "updated": "Thu, 5 Jan 2012 04:17:05 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "01e968aafb5a97b859d6abb7041c15ed",
+  "name": "Jiminy Peak",
+  "updated": "Thu, 5 Jan 2012 06:55:56 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "40",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "b8565e7c89939af268e15649ec290815",
+  "name": "June Mountain",
+  "updated": "Thu, 5 Jan 2012 12:04:38 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "dcac2dde2e8f44d644ac08f9bac53440",
+  "name": "Kelly Canyon",
+  "updated": "Thu, 5 Jan 2012 10:27:53 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "44",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "34bf39c911afc091a4c5dda9b0f722a9",
+  "name": "Keystone",
+  "updated": "Thu, 5 Jan 2012 10:15:47 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "19",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "34ebf0477cb0437f0aac2cfbb03e0729",
+  "name": "Killington",
+  "updated": "Thu, 5 Jan 2012 08:14:42 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "32",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "555931a8ad6232892422f2dc1e710e68",
+  "name": "King Pine",
+  "updated": "Thu, 5 Jan 2012 07:36:52 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "fbe03db90750c6d18f8e2f4ec3fa6531",
+  "name": "Kirkwood",
+  "updated": "Thu, 5 Jan 2012 10:12:08 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "37b075e6ed3a8f5849b289ef5216748c",
+  "name": "Kissing Bridge",
+  "updated": "Thu, 5 Jan 2012 02:19:01 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "10",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "1814ddcdeef103fc6f4e084938779c0d",
+  "name": "Labrador Mt.",
+  "updated": "Thu, 5 Jan 2012 08:55:50 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "3",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "nevada",
+  "filter_key": "nevada"
+  },
+  "id": "c0e2717d91db313410e5941f364ef0b7",
+  "name": "Las Vegas Ski",
+  "updated": "Thu, 5 Jan 2012 10:56:04 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "7229a74056a777ade1a95b4a89e8e5b4",
+  "name": "Liberty",
+  "updated": "Thu, 5 Jan 2012 08:36:52 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "88bb36541d2512146de7eea958a742a0",
+  "name": "Lookout Pass",
+  "updated": "Thu, 5 Jan 2012 10:27:59 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "64",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "1aa0095d24444e2025cc851e0415be08",
+  "name": "Loon Mountain",
+  "updated": "Thu, 5 Jan 2012 07:45:42 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "23",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "b018ad0cb1e5108fe5d69bcdeb2a7f8f",
+  "name": "Lost Trail",
+  "updated": "Thu, 5 Jan 2012 10:25:39 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "45",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "7f9a376f510a8052c7e86e18a7ab9ec3",
+  "name": "Lost Valley",
+  "updated": "Thu, 5 Jan 2012 07:50:04 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "9441056fd43b9c808bdc401ed05cf418",
+  "name": "Loveland",
+  "updated": "Thu, 5 Jan 2012 10:15:52 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "1b8c8921f3391f5e1efed1123e770917",
+  "name": "Lutsen",
+  "updated": "Thu, 5 Jan 2012 01:24:16 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "ohio",
+  "filter_key": "ohio"
+  },
+  "id": "1611535cbc989f1a6fb6c648e8139240",
+  "name": "Mad River",
+  "updated": "Thu, 5 Jan 2012 08:19:10 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "32",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "7da6c4ad9663624006f12226f67a0da7",
+  "name": "Mad River Glen",
+  "updated": "Thu, 5 Jan 2012 08:13:58 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Frozen Granular",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "979cd2719862f8badd0aeaff0822f418",
+  "name": "Magic Mountain",
+  "updated": "Thu, 5 Jan 2012 08:12:34 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "63a2e8746bbec9bc2c83245d2c158e76",
+  "name": "Magic Mountain",
+  "updated": "Thu, 5 Jan 2012 10:28:21 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "109f8199e9d9ece01ff1f7fe4a39c094",
+  "name": "Mammoth Mountain",
+  "updated": "Thu, 5 Jan 2012 10:08:24 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "3d506a689f9bc5ef11cd20643065647e",
+  "name": "Maple Ski Ridge",
+  "updated": "Thu, 5 Jan 2012 08:58:56 -0500",
+  "status": "Open",
+  "conditions": "Frozen Granular",
+  "base": {
+  "depth": "40",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "6c314979de544c096deea1b77006cc2b",
+  "name": "Marquette",
+  "updated": "Thu, 5 Jan 2012 12:16:30 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "virginia",
+  "filter_key": "virginia"
+  },
+  "id": "82d648ea6cffd5c0bab1a3e30f6a0238",
+  "name": "Massanutten",
+  "updated": "Thu, 5 Jan 2012 02:05:10 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "e020c325d1626ed18e7310ef924e0a51",
+  "name": "Maverick Mountain",
+  "updated": "Thu, 5 Jan 2012 10:25:56 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "35",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "10e1642b6807679d3b1858f1abdc79be",
+  "name": "McCauley Mountain",
+  "updated": "Thu, 5 Jan 2012 02:19:50 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "6",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "34e4419a184600e49a2ee93c44f52bd5",
+  "name": "Mission Ridge",
+  "updated": "Thu, 5 Jan 2012 11:10:37 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "26",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "connecticut",
+  "filter_key": "connecticut"
+  },
+  "id": "c5847326bec5532e232059dbdb7f8388",
+  "name": "Mohawk Mountain",
+  "updated": "Thu, 5 Jan 2012 07:42:51 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "7ae9a699f4f3a39c80a256700c4bf929",
+  "name": "Monarch",
+  "updated": "Thu, 5 Jan 2012 10:16:31 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "27",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "4e194d0aca8ddd98a71fe8950082ae74",
+  "name": "Mont Ripley",
+  "updated": "Thu, 5 Jan 2012 08:41:54 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "edd2c6f0314a6dda0209a4d56e21fb4c",
+  "name": "Montana Snowbowl",
+  "updated": "Thu, 5 Jan 2012 10:26:11 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "57",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "501cc207edb67c1af575671ce5a00326",
+  "name": "Moonlight Basin",
+  "updated": "Thu, 5 Jan 2012 10:27:09 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "37",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "3d6b6b78fba07cfea3b6d329365fc7a4",
+  "name": "Mount Ashland",
+  "updated": "Thu, 5 Jan 2012 11:21:52 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "943a42b4a9405e0a2a538083d016962d",
+  "name": "Mount Brighton",
+  "updated": "Thu, 5 Jan 2012 08:40:27 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "18fe089164388d14bc6386b719a49207",
+  "name": "Mount Holiday",
+  "updated": "Thu, 5 Jan 2012 08:38:17 -0500",
+  "status": "Open",
+  "conditions": "Wet",
+  "base": {
+  "depth": "15",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "0585e069e02771bf706166439a581b49",
+  "name": "Mount Holly",
+  "updated": "Thu, 5 Jan 2012 08:39:25 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "ef0ebf5243a11c0d7010045bda22ac32",
+  "name": "Mount Kato",
+  "updated": "Thu, 5 Jan 2012 10:00:25 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "42",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "550d322939edd5d82e3ec3e77937b5b4",
+  "name": "Mount La Crosse",
+  "updated": "Sun, 1 Jan 2012 12:15:04 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "bfad3e2629f5099c2f45470f4ff610e6",
+  "name": "Mount Peter",
+  "updated": "Thu, 5 Jan 2012 09:04:09 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "360aabe3e4a1478e49bf8c563b574008",
+  "name": "Mount Shasta",
+  "updated": "Thu, 5 Jan 2012 10:12:48 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "6",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "ad4ab9cedb1ba41fa5999ac09fb3e6e3",
+  "name": "Mount Snow",
+  "updated": "Thu, 5 Jan 2012 08:12:04 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "connecticut",
+  "filter_key": "connecticut"
+  },
+  "id": "732facc8f0cb409bc5a86907a4613375",
+  "name": "Mount Southington",
+  "updated": "Thu, 5 Jan 2012 07:43:45 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "1fa009cb6fd502079584aed9f900e9c5",
+  "name": "Mount Sunapee",
+  "updated": "Thu, 5 Jan 2012 06:27:36 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-jersey",
+  "filter_key": "new-jersey"
+  },
+  "id": "250f8e1bc5bc85ec03e27198de7cc46f",
+  "name": "Mountain Creek",
+  "updated": "Thu, 5 Jan 2012 02:08:05 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "28ed85f814c60c6995c307b4a05d84ed",
+  "name": "Mountain High",
+  "updated": "Thu, 5 Jan 2012 09:46:04 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "ad04295e3019df70127ae2d17c30b0a0",
+  "name": "Mt. Abram",
+  "updated": "Thu, 5 Jan 2012 08:17:10 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "a47dc53b02ced19d6d3fe8323f0d75d9",
+  "name": "Mt. Bachelor",
+  "updated": "Thu, 5 Jan 2012 11:21:58 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "48",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "9ac54e5911948494950974091c1e0de8",
+  "name": "Mt. Baker",
+  "updated": "Thu, 5 Jan 2012 11:10:13 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "105",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "7d49a6e85698b731cbb94c8e960973e7",
+  "name": "Mt. Baldy",
+  "updated": "Thu, 5 Jan 2012 12:09:11 -0500",
+  "status": "Limited Open",
+  "conditions": "N/A",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "409c410d63d2e3c10b38feb7d871db38",
+  "name": "Mt. Bohemia",
+  "updated": "Thu, 5 Jan 2012 02:16:46 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Variable",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "iowa",
+  "filter_key": "iowa"
+  },
+  "id": "d9f2bf77a0c8a12ff53a0e1720a998b4",
+  "name": "Mt. Crescent",
+  "updated": "Wed, 16 Mar 2011 19:20:00 -0400",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "57e285ff345351d6402f8ee9050f4b14",
+  "name": "Mt. Hood Meadows",
+  "updated": "Thu, 5 Jan 2012 11:22:03 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "48",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "6617975c81fd71ed3fbe8f291f4ac204",
+  "name": "Mt. Hood Ski Bowl",
+  "updated": "Thu, 5 Jan 2012 11:22:08 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "27",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "486d1d6144470ae0cbf08f03af1d7ca0",
+  "name": "Mt. Jefferson",
+  "updated": "Thu, 5 Jan 2012 08:21:03 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "nevada",
+  "filter_key": "nevada"
+  },
+  "id": "775ffdd6a3500cd6d6959589043b690e",
+  "name": "Mt. Rose",
+  "updated": "Thu, 5 Jan 2012 10:54:38 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "712828924d2df1357425159ec9325da8",
+  "name": "Mt. Spokane",
+  "updated": "Thu, 5 Jan 2012 11:09:42 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "37",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "53fc952e3e42fa6b7508d0c253aa7112",
+  "name": "Nashoba Valley",
+  "updated": "Thu, 5 Jan 2012 08:07:40 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "32",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "a8e298e1533225826ccf360f28a4d9bf",
+  "name": "New Hermon Mtn.",
+  "updated": "Thu, 5 Jan 2012 08:18:42 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "df2a4ce78db400a6aa1ca3b84f284a6b",
+  "name": "Nordic Mountain",
+  "updated": "Thu, 5 Jan 2012 02:08:15 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "f2a9854e6847b277b6de96fec9cbf84c",
+  "name": "Northstar California",
+  "updated": "Thu, 5 Jan 2012 10:13:21 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "26",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "d6f0afddc4a4f9d6bcc1584dbda2256b",
+  "name": "Norway Mountain",
+  "updated": "Thu, 5 Jan 2012 02:14:29 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "752b44f2aa8958a71a380a6843b9bce1",
+  "name": "Nubs Nob",
+  "updated": "Thu, 5 Jan 2012 10:12:20 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "49",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "426df7a1937b670a13306c5edeaae3ca",
+  "name": "Okemo",
+  "updated": "Thu, 5 Jan 2012 06:42:20 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "550ca1dc59495e9f97757e27641ed73e",
+  "name": "Otis Ridge",
+  "updated": "Thu, 5 Jan 2012 08:06:37 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "84cddf77bfffa4625e729c7788982464",
+  "name": "Pajarito Mountain",
+  "updated": "Thu, 5 Jan 2012 10:58:53 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "58",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "indiana",
+  "filter_key": "indiana"
+  },
+  "id": "aa3b01e9ae20ca233a14e993a07e48f9",
+  "name": "Paoli Peaks",
+  "updated": "Thu, 5 Jan 2012 12:07:13 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "a9e0aa152a38919c64ec21ab6fb98bf8",
+  "name": "Park City Mt Resort",
+  "updated": "Thu, 5 Jan 2012 11:23:42 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "52ae6ab7b779b941b5222d74c2085beb",
+  "name": "Pats Peak",
+  "updated": "Thu, 5 Jan 2012 02:16:55 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "8391996e861f9fda15afde4da1030702",
+  "name": "Pebble Creek",
+  "updated": "Thu, 5 Jan 2012 10:28:06 -0500",
+  "status": "Limited Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "16",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "c72843d78924f3cf891105bc4991159b",
+  "name": "Peek'n Peak",
+  "updated": "Thu, 5 Jan 2012 10:17:49 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "3",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "indiana",
+  "filter_key": "indiana"
+  },
+  "id": "c1f1af084faa174ee243e8f323369415",
+  "name": "Perfect North Slopes",
+  "updated": "Thu, 5 Jan 2012 10:00:53 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "524d5ab8534f7342831f8d9a07775b5d",
+  "name": "Pico Mountain",
+  "updated": "Thu, 5 Jan 2012 08:11:07 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "dbe9deb6609a1c0cc3c60f7d087275ae",
+  "name": "Pine Knob",
+  "updated": "Thu, 5 Jan 2012 10:44:59 -0500",
+  "status": "Limited Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "a825918f9b19ee3313997959354e7d6f",
+  "name": "Pine Mountain",
+  "updated": "Thu, 5 Jan 2012 12:18:30 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "21640608acff7af8ef3cbb69a7b58b1d",
+  "name": "Plattekill Mountain",
+  "updated": "Thu, 5 Jan 2012 02:17:50 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "14",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "8f88d19842d90904d712ecd171d715fa",
+  "name": "Pomerelle Mountain",
+  "updated": "Thu, 5 Jan 2012 11:09:48 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "31",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "cb7df0cf494a1218c1d87ef304f5da7f",
+  "name": "Powder Mountain",
+  "updated": "Thu, 5 Jan 2012 11:23:47 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "21",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "9fa873459d229d6dedf718786ca573f8",
+  "name": "Powder Ridge",
+  "updated": "Tue, 3 Jan 2012 01:33:21 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "38",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "2baf19a93274d4a61293c0dbc6d66c0b",
+  "name": "Powderhorn",
+  "updated": "Thu, 5 Jan 2012 10:16:44 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "31",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "2cf9cc570733c728eebe8ca2f59475de",
+  "name": "Ragged Mountain",
+  "updated": "Thu, 5 Jan 2012 08:03:38 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "97e49fc03fa96751d79454ae714deb55",
+  "name": "Red Lodge Mtn.",
+  "updated": "Thu, 5 Jan 2012 10:27:16 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "57",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "36a5fa369c42fd81484d7b411361ea26",
+  "name": "Red River",
+  "updated": "Thu, 5 Jan 2012 11:01:04 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "40",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "9ee9dc3179a9caf450a20bcf60741f06",
+  "name": "Roundtop",
+  "updated": "Thu, 5 Jan 2012 06:25:06 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "036e38ac6533f16a8c470cbbe44eccd6",
+  "name": "Royal Mountain",
+  "updated": "Thu, 5 Jan 2012 10:10:07 -0500",
+  "status": "Limited Open",
+  "conditions": "Spring",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "ff5fc482415565d161420cd8606268bd",
+  "name": "Saddleback",
+  "updated": "Thu, 5 Jan 2012 07:36:24 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "f6f5d4cfbd8ce842075be6e2670c522e",
+  "name": "Sandia Peak",
+  "updated": "Thu, 5 Jan 2012 10:58:47 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "57",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "north-carolina",
+  "filter_key": "north-carolina"
+  },
+  "id": "24a8780ae0a63596b590a1ad61b21fff",
+  "name": "Sapphire Valley",
+  "updated": "Wed, 4 Jan 2012 10:12:55 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "467c4c8de8a1f5c920ea3d6b5a5f85b8",
+  "name": "Schweitzer",
+  "updated": "Thu, 5 Jan 2012 10:28:26 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "68",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "iowa",
+  "filter_key": "iowa"
+  },
+  "id": "0950cf6f77cf4d06bb086cce180242f8",
+  "name": "Seven Oaks",
+  "updated": "Thu, 5 Jan 2012 12:04:27 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "baa25fc5894fada27b7f386c9b68815d",
+  "name": "Seven Springs",
+  "updated": "Thu, 5 Jan 2012 05:17:19 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "26",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "6ac31bdd187012fdd78a6825a96f3320",
+  "name": "Shanty Creek",
+  "updated": "Thu, 5 Jan 2012 10:59:15 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "50",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "49c78c525673f3103586940126a18d56",
+  "name": "Shawnee Mountain",
+  "updated": "Thu, 5 Jan 2012 07:59:41 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "55d752f3044576776c0ced5c8e491381",
+  "name": "Shawnee Peak",
+  "updated": "Thu, 5 Jan 2012 08:17:23 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "bd43dda489c706364cfc1b81c5f91475",
+  "name": "Showdown",
+  "updated": "Thu, 5 Jan 2012 10:27:33 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "38",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "fe0d5c98c9ad9ea5d7e7ac26d27ae42d",
+  "name": "Sierra at Tahoe",
+  "updated": "Thu, 5 Jan 2012 10:13:04 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "5f88a1c5c8d591e3eb7a968bf284b6ac",
+  "name": "Silver Mountain",
+  "updated": "Thu, 5 Jan 2012 10:28:31 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "51",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "79a594e2cacaecba589dfbd790c29a50",
+  "name": "Silverton",
+  "updated": "Thu, 5 Jan 2012 11:00:40 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "60",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "4f20c95929ae94df25bd72d19db7e8de",
+  "name": "Sipapu Ski",
+  "updated": "Thu, 5 Jan 2012 10:57:31 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "29",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "31ce487741ca1a9e69c3d20fd2368ec7",
+  "name": "Ski Apache",
+  "updated": "Thu, 5 Jan 2012 10:56:51 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "61",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "north-carolina",
+  "filter_key": "north-carolina"
+  },
+  "id": "93a7e2294151e2e056ce4086b4808ed7",
+  "name": "Ski Beech",
+  "updated": "Thu, 5 Jan 2012 12:11:05 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "34",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "28df113834c693b821ee7db0e015d873",
+  "name": "Ski Brule",
+  "updated": "Thu, 5 Jan 2012 02:04:24 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "48",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "6b798fd2715f1c20d4b671859de67bc6",
+  "name": "Ski Butternut",
+  "updated": "Thu, 5 Jan 2012 08:05:13 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "f3a9f3cd4ae3ef219ddcbe32088d533a",
+  "name": "Ski Cooper",
+  "updated": "Thu, 5 Jan 2012 10:16:50 -0500",
+  "status": "Open",
+  "conditions": "Hard Packed",
+  "base": {
+  "depth": "23",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "4f0ec311d5d91ea6ad30778f41f64e39",
+  "name": "Ski Denton",
+  "updated": "Thu, 5 Jan 2012 10:37:51 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "south-dakota",
+  "filter_key": "south-dakota"
+  },
+  "id": "2c564c9630c23fd6e639abb8471673dd",
+  "name": "Ski Mystic",
+  "updated": "Sat, 17 Dec 2011 10:57:11 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "f291b48451bbbadf82e8c044a6516ac5",
+  "name": "Ski Santa Fe",
+  "updated": "Thu, 5 Jan 2012 10:56:42 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "40",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "b63351e0c1d6d27ad063d894ebf28005",
+  "name": "Ski Sawmill",
+  "updated": "Thu, 5 Jan 2012 10:38:40 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "illinois",
+  "filter_key": "illinois"
+  },
+  "id": "b9d69a3799ced639dd126317a9b2e887",
+  "name": "Ski Snowstar",
+  "updated": "Wed, 4 Jan 2012 08:35:27 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "connecticut",
+  "filter_key": "connecticut"
+  },
+  "id": "58f52a8d34d96a7ad1decb34f435df22",
+  "name": "Ski Sundown",
+  "updated": "Thu, 5 Jan 2012 02:03:32 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "44",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "8cf30009ba17268320c5b5dcf8e48288",
+  "name": "Ski Ward",
+  "updated": "Thu, 5 Jan 2012 08:04:41 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "15",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wyoming",
+  "filter_key": "wyoming"
+  },
+  "id": "387d1580513ef181bb5c28b02c2c47d1",
+  "name": "Sleeping Giant",
+  "updated": "Thu, 5 Jan 2012 11:05:26 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "e617a1cdc3706a7123958019d95b93cb",
+  "name": "Smugglers' Notch",
+  "updated": "Thu, 5 Jan 2012 07:26:14 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "c0ebbd6b4efc0b5c6f8d378939764a7f",
+  "name": "Sno Mountain",
+  "updated": "Thu, 5 Jan 2012 10:39:46 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "38",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "missouri",
+  "filter_key": "missouri"
+  },
+  "id": "3305733c900e36fe9966ee0abde8373d",
+  "name": "Snow Creek",
+  "updated": "Tue, 20 Dec 2011 18:52:07 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wyoming",
+  "filter_key": "wyoming"
+  },
+  "id": "ba53307be64a9b3b538531287dfe6854",
+  "name": "Snow King",
+  "updated": "Thu, 5 Jan 2012 11:04:13 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "26",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "d6789faf4fbf7602b82c51698a67fbaa",
+  "name": "Snow Ridge",
+  "updated": "Thu, 5 Jan 2012 10:08:48 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "34",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "9171894f19b2e81f6a60c33817f36420",
+  "name": "Snow Snake Mtn.",
+  "updated": "Thu, 5 Jan 2012 10:15:40 -0500",
+  "status": "Open",
+  "conditions": "Hard Packed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "c5e29706aa4de8b5d380abc599946442",
+  "name": "Snow Summit",
+  "updated": "Thu, 5 Jan 2012 10:08:15 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "ohio",
+  "filter_key": "ohio"
+  },
+  "id": "94e0c21afd960db5d618891be51a968c",
+  "name": "Snow Trails",
+  "updated": "Thu, 5 Jan 2012 10:00:40 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "4f85342b1ebfd27b35a5ba0894ccca9b",
+  "name": "Snow Valley",
+  "updated": "Thu, 5 Jan 2012 10:08:42 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "a37f9dbe01c89b3ef56e65fdf2397eeb",
+  "name": "Snowbasin",
+  "updated": "Thu, 5 Jan 2012 11:23:51 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "27",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "341f5eec289c2a31faad814081c7c0a9",
+  "name": "Snowbird",
+  "updated": "Thu, 5 Jan 2012 11:24:01 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "32",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "west-virginia",
+  "filter_key": "west-virginia"
+  },
+  "id": "c2c6c565f9e94718ed31921e93166657",
+  "name": "Snowshoe",
+  "updated": "Thu, 5 Jan 2012 07:29:40 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "48",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "4",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wyoming",
+  "filter_key": "wyoming"
+  },
+  "id": "1fad29cf243bbf0d1edfb76784a19815",
+  "name": "Snowy Range",
+  "updated": "Thu, 5 Jan 2012 11:04:19 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "27",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "945194a196f55c17198513972d045691",
+  "name": "Soda Springs",
+  "updated": "Thu, 5 Jan 2012 10:13:31 -0500",
+  "status": "Open",
+  "conditions": "Obstacles",
+  "base": {
+  "depth": "8",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "80d6893836ee450c86af649955ec871c",
+  "name": "Soldier Mountain",
+  "updated": "Thu, 5 Jan 2012 10:28:42 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "9",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "258fa79e49b7925c2466f28862631a35",
+  "name": "Solitude",
+  "updated": "Thu, 5 Jan 2012 11:24:07 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "29",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "431e6c6804e380f1216dae18462c208d",
+  "name": "SolVista",
+  "updated": "Thu, 5 Jan 2012 10:16:54 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "15",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "a19907771f1d9a082e742de017c0aabc",
+  "name": "Song Mountain",
+  "updated": "Thu, 5 Jan 2012 10:13:38 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "26",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "1064f5fdfc51cae44843b8b267d312d5",
+  "name": "Spirit Mountain",
+  "updated": "Thu, 5 Jan 2012 12:07:26 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "651819cf27d159bc822e832e385d118a",
+  "name": "Spout Springs",
+  "updated": "Thu, 5 Jan 2012 11:23:07 -0500",
+  "status": "Limited Open",
+  "conditions": "N/A",
+  "base": {
+  "depth": "27",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "7f7d9c266e99e082c021bd1319ec6d29",
+  "name": "Spring Mountain",
+  "updated": "Thu, 5 Jan 2012 10:43:37 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "2fc8f175dddedc9b0178c062cecfc79c",
+  "name": "Squaw Valley",
+  "updated": "Thu, 5 Jan 2012 10:11:00 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "d2aa08c6de9713c61ebb928ccc79e22b",
+  "name": "Steamboat",
+  "updated": "Thu, 5 Jan 2012 10:14:33 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "21",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "877db3493cddb3a647e13901d665f0fa",
+  "name": "Stevens Pass",
+  "updated": "Thu, 5 Jan 2012 11:08:57 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "71",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "4b1124e5f12e1b03329a84b8d4e26d4d",
+  "name": "Stowe",
+  "updated": "Thu, 5 Jan 2012 06:26:53 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "26",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "7",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "47e8cfbceee2940119b88e42ef36715d",
+  "name": "Stratton",
+  "updated": "Thu, 5 Jan 2012 08:09:22 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "21",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "4ac38118a1daf393287802482116524a",
+  "name": "Sugar Bowl",
+  "updated": "Thu, 5 Jan 2012 10:10:55 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "north-carolina",
+  "filter_key": "north-carolina"
+  },
+  "id": "2aeb95e120f6d0fef9fbe626e92f1053",
+  "name": "Sugar Mountain",
+  "updated": "Thu, 5 Jan 2012 01:26:24 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "50",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "8af5d35004c96bada43e67075c625da2",
+  "name": "Sugarbush",
+  "updated": "Thu, 5 Jan 2012 07:29:50 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "9cc4a517e30af7477c7507142fd56b26",
+  "name": "Sugarloaf",
+  "updated": "Thu, 5 Jan 2012 06:27:25 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "vermont",
+  "filter_key": "vermont"
+  },
+  "id": "c5269aa8a9d402c7690c7455a00695ad",
+  "name": "Suicide Six",
+  "updated": "Thu, 5 Jan 2012 10:17:46 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "9ae521589da7f242adf64c473ca42309",
+  "name": "Summit at Snoqualmie",
+  "updated": "Thu, 5 Jan 2012 11:07:48 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "84",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "7084dcca81b1e6448648886a21013f65",
+  "name": "Sun Valley",
+  "updated": "Thu, 5 Jan 2012 10:20:59 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "75dfd6a378afd8cc348176284a61bcea",
+  "name": "Sunburst",
+  "updated": "Thu, 5 Jan 2012 08:38:37 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "65dbc60978529496ab0318635278d172",
+  "name": "Sundance",
+  "updated": "Thu, 5 Jan 2012 11:24:14 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "17",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "maine",
+  "filter_key": "maine"
+  },
+  "id": "7556483df4ed86452eb17e6662919b85",
+  "name": "Sunday River",
+  "updated": "Thu, 5 Jan 2012 07:51:06 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "iowa",
+  "filter_key": "iowa"
+  },
+  "id": "326258b573fb19847225a4fe12f63dcd",
+  "name": "Sundown Mountain",
+  "updated": "Fri, 16 Dec 2011 10:27:06 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "543660ebdac42ea74e59b7cd24e21f9b",
+  "name": "Sunlight Mountain",
+  "updated": "Thu, 5 Jan 2012 10:14:28 -0500",
+  "status": "Open",
+  "conditions": "Skiers Packed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "arizona",
+  "filter_key": "arizona"
+  },
+  "id": "faabd6edd16848291d87005e567e536c",
+  "name": "Sunrise Park",
+  "updated": "Wed, 4 Jan 2012 08:43:40 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "44",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "26bb61c5840a9f5406d2b6560e228e80",
+  "name": "Swain",
+  "updated": "Thu, 5 Jan 2012 10:16:27 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "45ccb2060f80feafa292df47112f54a7",
+  "name": "Swiss Valley",
+  "updated": "Thu, 5 Jan 2012 11:02:20 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "california",
+  "filter_key": "california"
+  },
+  "id": "c2f4a26f5c97dae879443dac2fe1f8b9",
+  "name": "Tahoe Donner",
+  "updated": "Thu, 5 Jan 2012 10:10:49 -0500",
+  "status": "Temporarily Closed",
+  "conditions": "Bare Spots",
+  "base": {
+  "depth": "8",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "idaho",
+  "filter_key": "idaho"
+  },
+  "id": "ce8fe91be25ab6c4660ceeb62112e794",
+  "name": "Tamarack Resort",
+  "updated": "Thu, 5 Jan 2012 10:20:54 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "27",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "a33bce04d3127a0c463225635eef73be",
+  "name": "Tanglwood",
+  "updated": "Sun, 1 Jan 2012 11:57:49 -0500",
+  "status": "Permanently closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-mexico",
+  "filter_key": "new-mexico"
+  },
+  "id": "b9ff0ad1ebcc674939313f191e18c6f1",
+  "name": "Taos",
+  "updated": "Thu, 5 Jan 2012 10:56:36 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "60",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "81162dea1f2d2617b446572a6a1fe5e6",
+  "name": "Telluride",
+  "updated": "Thu, 5 Jan 2012 10:14:24 -0500",
+  "status": "Open",
+  "conditions": "Hard Packed",
+  "base": {
+  "depth": "29",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "ebc60fb2ef8ed7ddab4934f5fa21758f",
+  "name": "Tenney Mountain",
+  "updated": "Tue, 3 Jan 2012 07:54:38 -0500",
+  "status": "Permanently closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "south-dakota",
+  "filter_key": "south-dakota"
+  },
+  "id": "0a3b39bd8789fd9b929ea19c36f04edd",
+  "name": "Terry Peak",
+  "updated": "Tue, 3 Jan 2012 17:24:29 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "cf5337868b31093ff9c70d9e2a971756",
+  "name": "Teton Pass",
+  "updated": "Thu, 5 Jan 2012 10:22:03 -0500",
+  "status": "Permanently closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "056be485d8cb1ff043db099f37dd8950",
+  "name": "The Canyons",
+  "updated": "Thu, 5 Jan 2012 11:24:19 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "22",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "virginia",
+  "filter_key": "virginia"
+  },
+  "id": "13b6dd3442170830d8f24b97e27a73fb",
+  "name": "The Homestead",
+  "updated": "Wed, 4 Jan 2012 10:05:34 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "13b058ab65b01086691cf57ce474463b",
+  "name": "The Homestead",
+  "updated": "Thu, 5 Jan 2012 11:03:10 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "4",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "2b68fac39cf0afd2420551ea2b0788c6",
+  "name": "Thunder Ridge",
+  "updated": "Thu, 5 Jan 2012 08:51:57 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "3e44fe7b3ed6a8b02d22bb1fde2def75",
+  "name": "Timber Ridge",
+  "updated": "Thu, 5 Jan 2012 10:11:49 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "16",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "6",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "west-virginia",
+  "filter_key": "west-virginia"
+  },
+  "id": "4978869ed66dfcfe97e2436987351582",
+  "name": "Timberline",
+  "updated": "Thu, 5 Jan 2012 12:14:54 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "43",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "2",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "46b61d07427ac49f5f8a6a538324e63c",
+  "name": "Timberline Lodge",
+  "updated": "Thu, 5 Jan 2012 11:17:14 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "60",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "e2ee1f8b537a5198f564fb641af4e7ce",
+  "name": "Titus Mountain",
+  "updated": "Thu, 5 Jan 2012 07:33:28 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "6",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "6",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "b89dc3aa137b12372a77b15b0b35c076",
+  "name": "Toggenburg Mountain",
+  "updated": "Thu, 5 Jan 2012 08:51:22 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "8",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "michigan",
+  "filter_key": "michigan"
+  },
+  "id": "b4caca692d9bdcc15e752ce861932bb6",
+  "name": "Treetops Resort",
+  "updated": "Thu, 5 Jan 2012 02:07:56 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "36",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "078b51445c9adb3a45c5bdc3acbf6775",
+  "name": "Trollhaugen",
+  "updated": "Sun, 1 Jan 2012 11:03:33 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "56",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "d2c31704741ffd18950dd7162c9a32b6",
+  "name": "Tussey Mountain",
+  "updated": "Thu, 5 Jan 2012 09:06:43 -0500",
+  "status": "Open",
+  "conditions": "Variable",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "54b2f64a61e0a8dfd26fb29abdca2241",
+  "name": "Tuxedo Ridge",
+  "updated": "Thu, 5 Jan 2012 08:50:35 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "26",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "2228887db77e88274dcdd2f0fe9ae856",
+  "name": "Tyrol Basin",
+  "updated": "Wed, 4 Jan 2012 12:20:41 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "3e7bdd8d496d00f13fd7cfdd6b6022b0",
+  "name": "Vail",
+  "updated": "Thu, 5 Jan 2012 10:14:19 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "illinois",
+  "filter_key": "illinois"
+  },
+  "id": "a090aa1395a808a49d3ead3b39e96697",
+  "name": "Villa Olivia",
+  "updated": "Wed, 4 Jan 2012 06:59:15 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "massachusetts",
+  "filter_key": "massachusetts"
+  },
+  "id": "432bded79908310b5e3b38d62fc31999",
+  "name": "Wachusett Mountain",
+  "updated": "Thu, 5 Jan 2012 02:47:02 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "aa9f0d232f1a7db394ef961048e9146c",
+  "name": "Waterville Valley",
+  "updated": "Thu, 5 Jan 2012 07:40:31 -0500",
+  "status": "Open",
+  "conditions": "Loose Granular",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "615f08004c2f4f339d6a1c3be45b0f26",
+  "name": "Welch Village",
+  "updated": "Sat, 31 Dec 2011 09:11:02 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "a313e5d7539b05c4a31ec570fb96c962",
+  "name": "West Mountain",
+  "updated": "Thu, 5 Jan 2012 08:49:06 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "washington",
+  "filter_key": "washington"
+  },
+  "id": "ec4e6bc19896b3d77b7da87b8da016f8",
+  "name": "White Pass",
+  "updated": "Thu, 5 Jan 2012 11:11:40 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "75",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wyoming",
+  "filter_key": "wyoming"
+  },
+  "id": "3ae40785b59b9aa528b6872196f4e017",
+  "name": "White Pine",
+  "updated": "Thu, 5 Jan 2012 11:05:13 -0500",
+  "status": "Closed",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "42c4da27eb184d934f903d1bb08c2e9e",
+  "name": "Whitecap Mountain",
+  "updated": "Sun, 1 Jan 2012 11:58:15 -0500",
+  "status": "Limited Open",
+  "conditions": "N/A",
+  "base": {
+  "depth": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "dbce5dda54a41e86ec80c9565feab4d7",
+  "name": "Whiteface Mountain",
+  "updated": "Thu, 5 Jan 2012 05:25:24 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "20",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "montana",
+  "filter_key": "montana"
+  },
+  "id": "e6e70672bc63a32444dcc086e7704ec1",
+  "name": "Whitefish",
+  "updated": "Thu, 5 Jan 2012 10:27:43 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "45",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "pennsylvania",
+  "filter_key": "pennsylvania"
+  },
+  "id": "1c9ec846b856a7415c8da1f35f915103",
+  "name": "Whitetail",
+  "updated": "Thu, 5 Jan 2012 06:42:29 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "18",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "minnesota",
+  "filter_key": "minnesota"
+  },
+  "id": "1fa6618a8807ec4ee7dd4523c1ba188c",
+  "name": "Wild Mountain",
+  "updated": "Thu, 5 Jan 2012 10:00:32 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "55",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-hampshire",
+  "filter_key": "new-hampshire"
+  },
+  "id": "954ab9af882feb7f5adfd0345da01c47",
+  "name": "Wildcat",
+  "updated": "Thu, 5 Jan 2012 06:22:12 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "oregon",
+  "filter_key": "oregon"
+  },
+  "id": "51a0f6bf5850cbfaecadbe7077bac276",
+  "name": "Willamette Pass",
+  "updated": "Thu, 5 Jan 2012 11:23:18 -0500",
+  "status": "Open",
+  "conditions": "Powder",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "cc6b600bd47454f4e4c0b49aa00fa0ce",
+  "name": "Willard Mountain",
+  "updated": "Thu, 5 Jan 2012 08:49:48 -0500",
+  "status": "Open",
+  "conditions": "Wet",
+  "base": {
+  "depth": "12",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "wisconsin",
+  "filter_key": "wisconsin"
+  },
+  "id": "5e44ed3abb8aa8ebcf2bb213116f6bf4",
+  "name": "Wilmot Mountain",
+  "updated": "Thu, 5 Jan 2012 02:19:11 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "ad7d770ced612c18d625eb071fdf13d6",
+  "name": "Windham Mountain",
+  "updated": "Thu, 5 Jan 2012 07:27:38 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "1",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "c890c6863ff97a86ceaabb1f691eb571",
+  "name": "Winter Park",
+  "updated": "Thu, 5 Jan 2012 10:14:15 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "31",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "virginia",
+  "filter_key": "virginia"
+  },
+  "id": "41facdb920d6b4230b7d46a5f138fbcc",
+  "name": "Wintergreen",
+  "updated": "Wed, 4 Jan 2012 10:12:41 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "west-virginia",
+  "filter_key": "west-virginia"
+  },
+  "id": "337ea4d3bb9935fa504af1ae4e92048c",
+  "name": "Winterplace",
+  "updated": "Wed, 4 Jan 2012 10:06:30 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "34",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "7",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "utah",
+  "filter_key": "utah"
+  },
+  "id": "c882b5ba03d0d6eb1426c3f340b9c736",
+  "name": "Wolf Creek",
+  "updated": "Thu, 5 Jan 2012 11:24:23 -0500",
+  "status": "Open",
+  "conditions": "Machine Groomed",
+  "base": {
+  "depth": "19",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "colorado",
+  "filter_key": "colorado"
+  },
+  "id": "7c5c131a737a6968b373bd4d474fdf0d",
+  "name": "Wolf Creek",
+  "updated": "Thu, 5 Jan 2012 10:14:09 -0500",
+  "status": "Open",
+  "conditions": "Packed Powder",
+  "base": {
+  "depth": "57",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "north-carolina",
+  "filter_key": "north-carolina"
+  },
+  "id": "5e6512813ed46bec4a34d10704705ac1",
+  "name": "Wolf Ridge",
+  "updated": "Wed, 4 Jan 2012 10:09:05 -0500",
+  "status": "Open",
+  "conditions": "Frozen Granular",
+  "base": {
+  "depth": "28",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "connecticut",
+  "filter_key": "connecticut"
+  },
+  "id": "805d97d3d5d428e800316e7831e6a1e6",
+  "name": "Woodbury",
+  "updated": "Thu, 5 Jan 2012 07:45:35 -0500",
+  "status": "Open",
+  "conditions": "Machine Made",
+  "base": {
+  "depth": "30",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  },
+  {
+  "state": {
+  "name": "new-york",
+  "filter_key": "new-york"
+  },
+  "id": "d3061dc6b1137665f02a3eb12f0d9cbe",
+  "name": "Woods Valley",
+  "updated": "Thu, 5 Jan 2012 08:48:35 -0500",
+  "status": "Open",
+  "conditions": "Bare Spots",
+  "base": {
+  "depth": "24",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  },
+  "snowfall": {
+  "amount": "0",
+  "metric": "inches",
+  "metric_shorthand": "\""
+  }
+  }]
