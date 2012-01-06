@@ -8,19 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		0253B61614B6A2C90075DFCA /* PowderFavoritesEditViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0253B61514B6A2C90075DFCA /* PowderFavoritesEditViewController.m */; };
-		0253B61E14B6A84F0075DFCA /* resorts.json in Resources */ = {isa = PBXBuildFile; fileRef = 0253B61D14B6A84F0075DFCA /* resorts.json */; };
-		0253B62014B6A9170075DFCA /* favorites.json in Resources */ = {isa = PBXBuildFile; fileRef = 0253B61F14B6A9170075DFCA /* favorites.json */; };
 		0253B62314B6A9D20075DFCA /* Favorite.m in Sources */ = {isa = PBXBuildFile; fileRef = 0253B62214B6A9D20075DFCA /* Favorite.m */; };
+		0253B62814B6AADF0075DFCA /* PowderMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0253B62514B6AADF0075DFCA /* PowderMainViewController.m */; };
+		0253B62914B6AADF0075DFCA /* PowderResortsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0253B62714B6AADF0075DFCA /* PowderResortsViewController.m */; };
+		0253B62C14B6AAF70075DFCA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0253B62A14B6AAF70075DFCA /* main.m */; };
+		0253B62F14B6AB020075DFCA /* PowderAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0253B62E14B6AB020075DFCA /* PowderAppDelegate.m */; };
+		0253B63314B6AB330075DFCA /* favorites.json in Resources */ = {isa = PBXBuildFile; fileRef = 0253B63114B6AB330075DFCA /* favorites.json */; };
+		0253B63414B6AB330075DFCA /* resorts.json in Resources */ = {isa = PBXBuildFile; fileRef = 0253B63214B6AB330075DFCA /* resorts.json */; };
 		026632F514A403050069657C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 026632F414A403050069657C /* UIKit.framework */; };
 		026632F714A403050069657C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 026632F614A403050069657C /* Foundation.framework */; };
 		026632F914A403050069657C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 026632F814A403050069657C /* CoreGraphics.framework */; };
 		026632FF14A403050069657C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 026632FD14A403050069657C /* InfoPlist.strings */; };
-		0266330114A403050069657C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266330014A403050069657C /* main.m */; };
-		0266330514A403050069657C /* PowderAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266330414A403050069657C /* PowderAppDelegate.m */; };
 		0266330814A403050069657C /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */; };
 		0266330B14A403050069657C /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0266330914A403050069657C /* MainStoryboard_iPad.storyboard */; };
-		0266330E14A403050069657C /* PowderMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266330D14A403050069657C /* PowderMainViewController.m */; };
-		0266331114A403050069657C /* PowderResortsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0266331014A403050069657C /* PowderResortsViewController.m */; };
 		027DE89F14AA61C80070F022 /* FavoriteResortTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */; };
 		029071F814B2450F00549D55 /* PowderAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 029071F714B2450F00549D55 /* PowderAPI.m */; };
 		02DA3AC614ABB7DF00C49DB9 /* Resort.m in Sources */ = {isa = PBXBuildFile; fileRef = 02DA3AC514ABB7DF00C49DB9 /* Resort.m */; };
@@ -29,26 +29,26 @@
 /* Begin PBXFileReference section */
 		0253B61414B6A2C90075DFCA /* PowderFavoritesEditViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PowderFavoritesEditViewController.h; path = Code/PowderFavoritesEditViewController.h; sourceTree = "<group>"; };
 		0253B61514B6A2C90075DFCA /* PowderFavoritesEditViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PowderFavoritesEditViewController.m; path = Code/PowderFavoritesEditViewController.m; sourceTree = "<group>"; };
-		0253B61D14B6A84F0075DFCA /* resorts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = resorts.json; sourceTree = "<group>"; };
-		0253B61F14B6A9170075DFCA /* favorites.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = favorites.json; sourceTree = "<group>"; };
 		0253B62114B6A9D20075DFCA /* Favorite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Favorite.h; path = Code/Favorite.h; sourceTree = "<group>"; };
 		0253B62214B6A9D20075DFCA /* Favorite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Favorite.m; path = Code/Favorite.m; sourceTree = "<group>"; };
+		0253B62414B6AADF0075DFCA /* PowderMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PowderMainViewController.h; path = Code/PowderMainViewController.h; sourceTree = "<group>"; };
+		0253B62514B6AADF0075DFCA /* PowderMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PowderMainViewController.m; path = Code/PowderMainViewController.m; sourceTree = "<group>"; };
+		0253B62614B6AADF0075DFCA /* PowderResortsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PowderResortsViewController.h; path = Code/PowderResortsViewController.h; sourceTree = "<group>"; };
+		0253B62714B6AADF0075DFCA /* PowderResortsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PowderResortsViewController.m; path = Code/PowderResortsViewController.m; sourceTree = "<group>"; };
+		0253B62A14B6AAF70075DFCA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Code/main.m; sourceTree = "<group>"; };
+		0253B62B14B6AAF70075DFCA /* Powder-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Powder-Prefix.pch"; path = "Code/Powder-Prefix.pch"; sourceTree = "<group>"; };
+		0253B62D14B6AB020075DFCA /* PowderAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PowderAppDelegate.h; path = Code/PowderAppDelegate.h; sourceTree = "<group>"; };
+		0253B62E14B6AB020075DFCA /* PowderAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PowderAppDelegate.m; path = Code/PowderAppDelegate.m; sourceTree = "<group>"; };
+		0253B63114B6AB330075DFCA /* favorites.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = favorites.json; path = Assets/favorites.json; sourceTree = "<group>"; };
+		0253B63214B6AB330075DFCA /* resorts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = resorts.json; path = Assets/resorts.json; sourceTree = "<group>"; };
 		026632F014A403050069657C /* Powder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Powder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		026632F414A403050069657C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		026632F614A403050069657C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		026632F814A403050069657C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		026632FC14A403050069657C /* Powder-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Powder-Info.plist"; sourceTree = "<group>"; };
 		026632FE14A403050069657C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0266330014A403050069657C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0266330214A403050069657C /* Powder-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Powder-Prefix.pch"; sourceTree = "<group>"; };
-		0266330314A403050069657C /* PowderAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PowderAppDelegate.h; sourceTree = "<group>"; };
-		0266330414A403050069657C /* PowderAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PowderAppDelegate.m; sourceTree = "<group>"; };
 		0266330714A403050069657C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		0266330A14A403050069657C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		0266330C14A403050069657C /* PowderMainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PowderMainViewController.h; sourceTree = "<group>"; };
-		0266330D14A403050069657C /* PowderMainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PowderMainViewController.m; sourceTree = "<group>"; };
-		0266330F14A403050069657C /* PowderResortsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PowderResortsViewController.h; sourceTree = "<group>"; };
-		0266331014A403050069657C /* PowderResortsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PowderResortsViewController.m; sourceTree = "<group>"; };
 		027DE89D14AA61C80070F022 /* FavoriteResortTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FavoriteResortTableViewCell.h; path = Code/FavoriteResortTableViewCell.h; sourceTree = "<group>"; };
 		027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FavoriteResortTableViewCell.m; path = Code/FavoriteResortTableViewCell.m; sourceTree = "<group>"; };
 		029071F614B2450F00549D55 /* PowderAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PowderAPI.h; path = Code/PowderAPI.h; sourceTree = "<group>"; };
@@ -71,6 +71,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0253B63014B6AB1C0075DFCA /* Data Files */ = {
+			isa = PBXGroup;
+			children = (
+				0253B63114B6AB330075DFCA /* favorites.json */,
+				0253B63214B6AB330075DFCA /* resorts.json */,
+			);
+			name = "Data Files";
+			sourceTree = "<group>";
+		};
 		026632E514A403050069657C = {
 			isa = PBXGroup;
 			children = (
@@ -101,11 +110,10 @@
 		026632FA14A403050069657C /* Powder */ = {
 			isa = PBXGroup;
 			children = (
+				0253B63014B6AB1C0075DFCA /* Data Files */,
 				02DA3AC314ABB77400C49DB9 /* Models */,
 				02DA3AC014ABB00200C49DB9 /* Views */,
 				027DE89B14AA5E1C0070F022 /* View Controllers */,
-				0266330314A403050069657C /* PowderAppDelegate.h */,
-				0266330414A403050069657C /* PowderAppDelegate.m */,
 				0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */,
 				0266330914A403050069657C /* MainStoryboard_iPad.storyboard */,
 				026632FB14A403050069657C /* Supporting Files */,
@@ -118,12 +126,12 @@
 		026632FB14A403050069657C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0253B62D14B6AB020075DFCA /* PowderAppDelegate.h */,
+				0253B62E14B6AB020075DFCA /* PowderAppDelegate.m */,
+				0253B62A14B6AAF70075DFCA /* main.m */,
+				0253B62B14B6AAF70075DFCA /* Powder-Prefix.pch */,
 				026632FC14A403050069657C /* Powder-Info.plist */,
 				026632FD14A403050069657C /* InfoPlist.strings */,
-				0266330014A403050069657C /* main.m */,
-				0266330214A403050069657C /* Powder-Prefix.pch */,
-				0253B61D14B6A84F0075DFCA /* resorts.json */,
-				0253B61F14B6A9170075DFCA /* favorites.json */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -131,10 +139,10 @@
 		027DE89B14AA5E1C0070F022 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				0266330C14A403050069657C /* PowderMainViewController.h */,
-				0266330D14A403050069657C /* PowderMainViewController.m */,
-				0266330F14A403050069657C /* PowderResortsViewController.h */,
-				0266331014A403050069657C /* PowderResortsViewController.m */,
+				0253B62414B6AADF0075DFCA /* PowderMainViewController.h */,
+				0253B62514B6AADF0075DFCA /* PowderMainViewController.m */,
+				0253B62614B6AADF0075DFCA /* PowderResortsViewController.h */,
+				0253B62714B6AADF0075DFCA /* PowderResortsViewController.m */,
 				0253B61414B6A2C90075DFCA /* PowderFavoritesEditViewController.h */,
 				0253B61514B6A2C90075DFCA /* PowderFavoritesEditViewController.m */,
 			);
@@ -223,8 +231,8 @@
 				026632FF14A403050069657C /* InfoPlist.strings in Resources */,
 				0266330814A403050069657C /* MainStoryboard_iPhone.storyboard in Resources */,
 				0266330B14A403050069657C /* MainStoryboard_iPad.storyboard in Resources */,
-				0253B61E14B6A84F0075DFCA /* resorts.json in Resources */,
-				0253B62014B6A9170075DFCA /* favorites.json in Resources */,
+				0253B63314B6AB330075DFCA /* favorites.json in Resources */,
+				0253B63414B6AB330075DFCA /* resorts.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,15 +243,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0266330114A403050069657C /* main.m in Sources */,
-				0266330514A403050069657C /* PowderAppDelegate.m in Sources */,
-				0266330E14A403050069657C /* PowderMainViewController.m in Sources */,
-				0266331114A403050069657C /* PowderResortsViewController.m in Sources */,
 				027DE89F14AA61C80070F022 /* FavoriteResortTableViewCell.m in Sources */,
 				02DA3AC614ABB7DF00C49DB9 /* Resort.m in Sources */,
 				029071F814B2450F00549D55 /* PowderAPI.m in Sources */,
 				0253B61614B6A2C90075DFCA /* PowderFavoritesEditViewController.m in Sources */,
 				0253B62314B6A9D20075DFCA /* Favorite.m in Sources */,
+				0253B62814B6AADF0075DFCA /* PowderMainViewController.m in Sources */,
+				0253B62914B6AADF0075DFCA /* PowderResortsViewController.m in Sources */,
+				0253B62C14B6AAF70075DFCA /* main.m in Sources */,
+				0253B62F14B6AB020075DFCA /* PowderAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
