@@ -336,7 +336,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Powder/Powder-Prefix.pch";
+				GCC_PREFIX_HEADER = "Powder/Code/Powder-Prefix.pch";
 				INFOPLIST_FILE = "Powder/Powder-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -347,7 +347,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Powder/Powder-Prefix.pch";
+				GCC_PREFIX_HEADER = "Powder/Code/Powder-Prefix.pch";
 				INFOPLIST_FILE = "Powder/Powder-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
