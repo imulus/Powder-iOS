@@ -12,6 +12,5 @@
 
 @property (nonatomic, strong) NSString *resortID;
 @property (nonatomic, strong) NSString *resortName;
-@property (assign) NSInteger position;
 
 @end

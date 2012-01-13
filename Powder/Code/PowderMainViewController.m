@@ -7,8 +7,13 @@
 //
 
 #import "PowderMainViewController.h"
+#import "FavoriteResortTableViewCell.h"
+#import "PowderAPI.h"
 
 @interface PowderMainViewController ()
+{
+    PowderAPI *_powderAPI;
+}
 
 - (void)loadFavorites;
 
@@ -19,6 +24,7 @@
 
 @synthesize flipsidePopoverController = _flipsidePopoverController;
 @synthesize favorites = _favorites;
+
 
 - (void)didReceiveMemoryWarning
 {
@@ -31,6 +37,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    _powderAPI = [[PowderAPI alloc] init];
+    [_powderAPI setDelegate:self];
 	
 }
 
@@ -43,6 +52,7 @@
 
 - (void)viewWillAppear:(BOOL)animated
 {
+    self.favorites = [_powderAPI favorites];
     [super viewWillAppear:animated];
 }
 
@@ -121,7 +131,9 @@
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     static NSString *cellIdentifier = @"SnowReportCell";
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
+    FavoriteResortTableViewCell *cell = (FavoriteResortTableViewCell *)[tableView dequeueReusableCellWithIdentifier:cellIdentifier];
+    
+    cell.favorite = [self.favorites objectAtIndex:indexPath.row];
     
     return cell;
 }
@@ -130,7 +142,14 @@
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    return 5;
+    return self.favorites.count;
+}
+
+#pragma mark - PowderAPIDelegate methods
+
+- (void)powderAPI:(PowderAPI *)api didRetrieveResorts:(NSArray *)resorts
+{
+    
 }
 
 @end

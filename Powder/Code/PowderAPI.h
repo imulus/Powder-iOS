@@ -25,6 +25,7 @@
 
 @property (nonatomic, strong) NSArray *resorts;
 @property (nonatomic, weak) id<PowderAPIDelegate> delegate;
+@property (nonatomic, readonly) NSArray *favorites;
 
 - (void)retrieveResorts;
 - (Resort *)resortWithSnowReportID:(NSString *)snowReportID;

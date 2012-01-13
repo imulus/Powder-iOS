@@ -23,8 +23,17 @@
     self = [super initWithStyle:style reuseIdentifier:reuseIdentifier];
     if (self) {
         // Initialization code
+        
     }
     return self;
+}
+
+- (void)awakeFromNib
+{
+    [super awakeFromNib];
+    self.conditionLabel.text = @"";
+    self.baseLabel.text = @"";
+    self.addedLabel.text = @"";
 }
 
 - (void)setFavorite:(Favorite *)favorite

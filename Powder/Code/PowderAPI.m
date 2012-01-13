@@ -7,12 +7,15 @@
 //
 
 #import "PowderAPI.h"
+#import "Favorite.h"
+#import "SBJson.h"
 
 //This is a class extension, which is kind of like a category, but it can add instance
 //variables
 @interface PowderAPI ()
 {
-    NSMutableDictionary *_resortsByID;   
+    NSMutableDictionary *_resortsByID;
+    NSArray *_favorites;
 }
 
 - (void)tellDelegateAboutError:(NSError *)error;
@@ -31,9 +34,38 @@
     if(self = [super init])
     {
         _resortsByID = [[NSMutableDictionary alloc] init];
+        _favorites = [[NSArray alloc] init];
     }
     
     return self;    
+}
+
+- (NSArray *)favorites
+{
+    if([_favorites count] == 0)
+    {
+        //populate the favorites from our temp file for now
+        
+        NSData *favoritesData = [[NSData alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"favorites" ofType:@"json"]];
+        NSString *favoritesJson = [[NSString alloc] initWithData:favoritesData encoding:NSUTF8StringEncoding];
+        
+        NSArray *favoritesDataArray = [favoritesJson JSONValue];
+        
+        NSMutableArray *favorites = [[NSMutableArray alloc] init];
+        
+        for(NSDictionary *favoriteDict in favoritesDataArray)
+        {
+            Favorite *favorite = [[Favorite alloc] init];
+            favorite.resortID = [favoriteDict objectForKey:@"id"];
+            favorite.resortName = [favoriteDict objectForKey:@"name"];
+            [favorites addObject:favorite];
+        }
+        
+        _favorites = favorites;
+        
+    }
+    
+    return [_favorites copy];
 }
 
 
@@ -41,8 +73,7 @@
 - (void)retrieveResorts
 {
     
-    NSData *resortData = [[NSData alloc] initWithContentsOfURL:
-                          [self resortsUrl]];
+    NSData *resortData = [[NSData alloc] initWithContentsOfURL:[self resortsUrl]];
 
     NSArray *resorts =  [NSJSONSerialization JSONObjectWithData:resortData options:NSJSONReadingAllowFragments error:nil];
     

@@ -12,6 +12,5 @@
 
 @synthesize resortID = _resortID;
 @synthesize resortName = _resortName;
-@synthesize position = _position;
 
 @end

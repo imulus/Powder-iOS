@@ -7,10 +7,12 @@
 //
 
 #import "PowderResortsViewController.h"
+#import "PowderAPI.h"
 
-@interface PowderMainViewController : UIViewController 
+@interface PowderMainViewController : UIViewController
 <
     PowderResortsViewControllerDelegate,
+    PowderAPIDelegate,
     UITableViewDelegate,
     UITableViewDataSource,
     UIPopoverControllerDelegate
