@@ -118,24 +118,24 @@
 {
     Resort *resort = [[Resort alloc] init];
     
-    resort.snowReportID = [[dictionary objectForKey:@"id"] stringValue];
-    resort.name = [[dictionary objectForKey:@"name"] stringValue];
-    resort.isOpen = [[[dictionary objectForKey:@"status"] stringValue] isEqualToString:@"Open"];
-    resort.currentConditions = [[dictionary objectForKey:@"conditions"] stringValue];
+    resort.snowReportID = [dictionary objectForKey:@"id"];
+    resort.name = [dictionary objectForKey:@"name"];
+    resort.isOpen = [[dictionary objectForKey:@"status"]isEqualToString:@"Open"];
+    resort.currentConditions = [dictionary objectForKey:@"conditions"];
     NSDictionary *currentTotal = [dictionary objectForKey:@"base"];
     if(nil != currentTotal)
     {
         resort.totalSnowAmount = [[currentTotal objectForKey:@"depth"] intValue];
-        resort.totalSnowMetric = [[currentTotal objectForKey:@"metric"] stringValue];
-        resort.totalSnowMetricSymbol = [[currentTotal objectForKey:@"metric_shorthand"] stringValue];        
+        resort.totalSnowMetric = [currentTotal objectForKey:@"metric"];
+        resort.totalSnowMetricSymbol = [currentTotal objectForKey:@"metric_shorthand"];        
     }
     
     NSDictionary *todayTotal = [dictionary objectForKey:@"snowfall"];
     if(nil != todayTotal)
     {
         resort.todaysSnowAmount = [[todayTotal objectForKey:@"amount"] intValue];
-        resort.todaysSnowMetric = [[todayTotal objectForKey:@"metric"] stringValue];
-        resort.todaysSnowMetricSymbol = [[todayTotal objectForKey:@"metric_shorthand"] stringValue];
+        resort.todaysSnowMetric = [todayTotal objectForKey:@"metric"];
+        resort.todaysSnowMetricSymbol = [todayTotal objectForKey:@"metric_shorthand"];
     }
     
     return resort;    
@@ -143,7 +143,7 @@
      
 - (NSURL *)resortsUrl
 {
-        return [NSURL URLWithString:[[NSBundle mainBundle] pathForResource:@"resorts" ofType:@"json"]];
+    return [[NSBundle mainBundle] URLForResource:@"resorts" withExtension:@"json"];
 }
 
 @end

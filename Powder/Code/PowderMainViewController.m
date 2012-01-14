@@ -22,6 +22,7 @@
 @implementation PowderMainViewController
 
 
+@synthesize tableView = _tableView;
 @synthesize flipsidePopoverController = _flipsidePopoverController;
 @synthesize favorites = _favorites;
 
@@ -45,6 +46,7 @@
 
 - (void)viewDidUnload
 {
+    [self setTableView:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
@@ -53,6 +55,7 @@
 - (void)viewWillAppear:(BOOL)animated
 {
     self.favorites = [_powderAPI favorites];
+    [_powderAPI retrieveResorts];
     [super viewWillAppear:animated];
 }
 
@@ -79,11 +82,6 @@
     } else {
         return YES;
     }
-}
-
-- (void)loadFavorites
-{
-    
 }
 
 #pragma mark - Flipside View Controller
@@ -135,6 +133,8 @@
     
     cell.favorite = [self.favorites objectAtIndex:indexPath.row];
     
+    cell.resort = [_powderAPI resortWithSnowReportID:cell.favorite.resortID];
+    
     return cell;
 }
 
@@ -149,7 +149,7 @@
 
 - (void)powderAPI:(PowderAPI *)api didRetrieveResorts:(NSArray *)resorts
 {
-    
+    [self.tableView reloadData];
 }
 
 @end

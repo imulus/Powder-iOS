@@ -123,6 +123,9 @@
                         </subviews>
                         <color key="backgroundColor" white="0.25" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
+                    <connections>
+                        <outlet property="tableView" destination="nrQ-kz-iAh" id="t15-rY-f6N"/>
+                    </connections>
                 </viewController>
             </objects>
             <point key="canvasLocation" x="-399" y="6"/>
@@ -192,6 +195,9 @@
         </class>
         <class className="PowderMainViewController" superclassName="UIViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/PowderMainViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="tableView" candidateClass="UITableView"/>
+            </relationships>
         </class>
         <class className="PowderResortsViewController" superclassName="UIViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/PowderResortsViewController.h"/>

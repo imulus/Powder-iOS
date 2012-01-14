@@ -18,6 +18,7 @@
     UIPopoverControllerDelegate
 >
 
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
 @property (strong, nonatomic) UIPopoverController *flipsidePopoverController;
 @property (strong, nonatomic) NSArray *favorites;
 

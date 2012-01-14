@@ -48,24 +48,28 @@
 {
     _resort = resort;
     
-    //update all of our labels
-    self.resortNameLabel.text = resort.name;
-    
-    if(YES == resort.isOpen)
+    if(nil != resort)
     {
-        self.openCloseLabel.text = @"OPEN";
-        self.openCloseLabel.backgroundColor = [UIColor greenColor];
-    }
-    else
-    {
-        self.openCloseLabel.text = @"CLOSED";
-        self.openCloseLabel.backgroundColor = [UIColor redColor];
-    }
     
-    self.conditionLabel.text = resort.currentConditions;
-    self.baseLabel.text =  [NSString stringWithFormat:@"%i%@", resort.totalSnowAmount, resort.totalSnowMetricSymbol];
-    
-    self.addedLabel.text = [NSString stringWithFormat:@"%i%@", resort.todaysSnowAmount, resort.todaysSnowMetricSymbol];
+        //update all of our labels
+        self.resortNameLabel.text = resort.name;
+        
+        if(YES == resort.isOpen)
+        {
+            self.openCloseLabel.text = @"OPEN";
+            self.openCloseLabel.backgroundColor = [UIColor greenColor];
+        }
+        else
+        {
+            self.openCloseLabel.text = @"CLOSED";
+            self.openCloseLabel.backgroundColor = [UIColor redColor];
+        }
+        
+        self.conditionLabel.text = resort.currentConditions;
+        self.baseLabel.text =  [NSString stringWithFormat:@"%i%@", resort.totalSnowAmount, resort.totalSnowMetricSymbol];
+        
+        self.addedLabel.text = [NSString stringWithFormat:@"%i%@", resort.todaysSnowAmount, resort.todaysSnowMetricSymbol];
+    }
     
 }
 
