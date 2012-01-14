@@ -36,6 +36,10 @@
 		02F91F7514C0F82900FF3059 /* SBJsonTokeniser.m in Sources */ = {isa = PBXBuildFile; fileRef = 02F91F6714C0F82900FF3059 /* SBJsonTokeniser.m */; };
 		02F91F7614C0F82900FF3059 /* SBJsonUTF8Stream.m in Sources */ = {isa = PBXBuildFile; fileRef = 02F91F6914C0F82900FF3059 /* SBJsonUTF8Stream.m */; };
 		02F91F7714C0F82900FF3059 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 02F91F6B14C0F82900FF3059 /* SBJsonWriter.m */; };
+		02F91F8F14C10EE400FF3059 /* subtle-gradient.png in Resources */ = {isa = PBXBuildFile; fileRef = 02F91F8B14C10EE400FF3059 /* subtle-gradient.png */; };
+		02F91F9014C10EE400FF3059 /* orange-bubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 02F91F8C14C10EE400FF3059 /* orange-bubble.png */; };
+		02F91F9114C10EE400FF3059 /* green-bubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 02F91F8D14C10EE400FF3059 /* green-bubble.png */; };
+		02F91F9214C10EE400FF3059 /* black-bubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 02F91F8E14C10EE400FF3059 /* black-bubble.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -92,6 +96,10 @@
 		02F91F6914C0F82900FF3059 /* SBJsonUTF8Stream.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonUTF8Stream.m; sourceTree = "<group>"; };
 		02F91F6A14C0F82900FF3059 /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
 		02F91F6B14C0F82900FF3059 /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
+		02F91F8B14C10EE400FF3059 /* subtle-gradient.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "subtle-gradient.png"; path = "Assets/Images/subtle-gradient.png"; sourceTree = "<group>"; };
+		02F91F8C14C10EE400FF3059 /* orange-bubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "orange-bubble.png"; path = "Assets/Images/orange-bubble.png"; sourceTree = "<group>"; };
+		02F91F8D14C10EE400FF3059 /* green-bubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "green-bubble.png"; path = "Assets/Images/green-bubble.png"; sourceTree = "<group>"; };
+		02F91F8E14C10EE400FF3059 /* black-bubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "black-bubble.png"; path = "Assets/Images/black-bubble.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,15 +155,16 @@
 		026632FA14A403050069657C /* Powder */ = {
 			isa = PBXGroup;
 			children = (
-				0253B63014B6AB1C0075DFCA /* Data Files */,
 				02DA3AC314ABB77400C49DB9 /* Models */,
 				02DA3AC014ABB00200C49DB9 /* Views */,
 				027DE89B14AA5E1C0070F022 /* View Controllers */,
 				0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */,
 				0266330914A403050069657C /* MainStoryboard_iPad.storyboard */,
-				026632FB14A403050069657C /* Supporting Files */,
 				029071F614B2450F00549D55 /* PowderAPI.h */,
 				029071F714B2450F00549D55 /* PowderAPI.m */,
+				026632FB14A403050069657C /* Supporting Files */,
+				02F91F8914C10EBB00FF3059 /* Images */,
+				0253B63014B6AB1C0075DFCA /* Data Files */,
 				02F91F5214C0F82900FF3059 /* json-framework */,
 			);
 			path = Powder;
@@ -248,6 +257,17 @@
 			path = "Third Party/json-framework";
 			sourceTree = "<group>";
 		};
+		02F91F8914C10EBB00FF3059 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				02F91F8B14C10EE400FF3059 /* subtle-gradient.png */,
+				02F91F8C14C10EE400FF3059 /* orange-bubble.png */,
+				02F91F8D14C10EE400FF3059 /* green-bubble.png */,
+				02F91F8E14C10EE400FF3059 /* black-bubble.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -304,6 +324,10 @@
 				0266330B14A403050069657C /* MainStoryboard_iPad.storyboard in Resources */,
 				0253B63314B6AB330075DFCA /* favorites.json in Resources */,
 				0253B63414B6AB330075DFCA /* resorts.json in Resources */,
+				02F91F8F14C10EE400FF3059 /* subtle-gradient.png in Resources */,
+				02F91F9014C10EE400FF3059 /* orange-bubble.png in Resources */,
+				02F91F9114C10EE400FF3059 /* green-bubble.png in Resources */,
+				02F91F9214C10EE400FF3059 /* black-bubble.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

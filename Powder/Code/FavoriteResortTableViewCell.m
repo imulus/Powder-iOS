@@ -8,6 +8,12 @@
 
 #import "FavoriteResortTableViewCell.h"
 
+@interface FavoriteResortTableViewCell()
+
+- (void)setupCell;
+
+@end
+
 @implementation FavoriteResortTableViewCell
 
 @synthesize resortNameLabel = _resortNameLabel;
@@ -23,7 +29,7 @@
     self = [super initWithStyle:style reuseIdentifier:reuseIdentifier];
     if (self) {
         // Initialization code
-        
+        [self setupCell];
     }
     return self;
 }
@@ -31,9 +37,17 @@
 - (void)awakeFromNib
 {
     [super awakeFromNib];
+    [self setupCell];
+}
+
+- (void)setupCell
+{
     self.conditionLabel.text = @"";
     self.baseLabel.text = @"";
     self.addedLabel.text = @"";
+    UIImageView *gradientBackgroundView = [[UIImageView alloc] initWithFrame:self.bounds];
+    [gradientBackgroundView setImage:[UIImage imageNamed:@"subtle-gradient.png"]];
+    self.backgroundView = gradientBackgroundView;
 }
 
 - (void)setFavorite:(Favorite *)favorite
