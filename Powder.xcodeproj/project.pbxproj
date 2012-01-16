@@ -213,16 +213,24 @@
 			name = "View Controllers";
 			sourceTree = "<group>";
 		};
-		02DA3AC014ABB00200C49DB9 /* Views */ = {
+		029ABEC814C4AAAB0091E87E /* Status Views */ = {
 			isa = PBXGroup;
 			children = (
-				02DA3AC214ABB01200C49DB9 /* Table View Cells */,
 				02EF16EC14C2831200A68E5F /* ResortOpenClosedView.h */,
 				02EF16ED14C2831200A68E5F /* ResortOpenClosedView.m */,
 				02C2AAA714C3F6AF00242F9E /* StretchingStatusView.h */,
 				02C2AAA814C3F6AF00242F9E /* StretchingStatusView.m */,
 				02C2AAAB14C3FDC500242F9E /* ResortConditionsView.h */,
 				02C2AAAC14C3FDC500242F9E /* ResortConditionsView.m */,
+			);
+			name = "Status Views";
+			sourceTree = "<group>";
+		};
+		02DA3AC014ABB00200C49DB9 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				029ABEC814C4AAAB0091E87E /* Status Views */,
+				02DA3AC214ABB01200C49DB9 /* Table View Cells */,
 			);
 			name = Views;
 			sourceTree = "<group>";
