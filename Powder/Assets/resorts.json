@@ -384,8 +384,8 @@
   "id": "e4e3e4275e6f6e672b878ec6e1075e97",
   "name": "Aspen / Snowmass",
   "updated": "Thu, 5 Jan 2012 10:14:47 -0500",
-  "status": "Open",
-  "conditions": "Packed Powder",
+  "status": "Closed",
+  "conditions": "Wealthy Drinkers",
   "base": {
   "depth": "34",
   "metric": "inches",
@@ -1791,8 +1791,8 @@
   "id": "0825551e4ac8ddc7c1fa5849c7d778ab",
   "name": "Crested Butte",
   "updated": "Thu, 5 Jan 2012 10:14:38 -0500",
-  "status": "Open",
-  "conditions": "Packed Powder",
+  "status": "Closed",
+  "conditions": "Icy",
   "base": {
   "depth": "20",
   "metric": "inches",
@@ -6937,7 +6937,7 @@
   "name": "Winter Park",
   "updated": "Thu, 5 Jan 2012 10:14:15 -0500",
   "status": "Open",
-  "conditions": "Packed Powder",
+  "conditions": "No Snow Train",
   "base": {
   "depth": "31",
   "metric": "inches",
