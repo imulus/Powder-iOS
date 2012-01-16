@@ -17,8 +17,8 @@
 @implementation FavoriteResortTableViewCell
 
 @synthesize resortNameLabel = _resortNameLabel;
-@synthesize openCloseLabel = _openCloseLabel;
-@synthesize conditionLabel = _conditionLabel;
+@synthesize openCloseView = _openCloseView;
+@synthesize conditionView = _conditionView;
 @synthesize baseLabel = _baseLabel;
 @synthesize addedLabel = _addedLabel;
 @synthesize resort = _resort;
@@ -42,7 +42,7 @@
 
 - (void)setupCell
 {
-    self.conditionLabel.text = @"";
+    self.conditionView.text = @"";
     self.baseLabel.text = @"";
     self.addedLabel.text = @"";
     UIImageView *gradientBackgroundView = [[UIImageView alloc] initWithFrame:self.bounds];
@@ -70,16 +70,14 @@
         
         if(YES == resort.isOpen)
         {
-            self.openCloseLabel.text = @"OPEN";
-            self.openCloseLabel.backgroundColor = [UIColor greenColor];
+            self.openCloseView.open = YES;
         }
         else
         {
-            self.openCloseLabel.text = @"CLOSED";
-            self.openCloseLabel.backgroundColor = [UIColor redColor];
+            self.openCloseView.open = NO;
         }
         
-        self.conditionLabel.text = resort.currentConditions;
+        self.conditionView.text = resort.currentConditions;
         self.baseLabel.text =  [NSString stringWithFormat:@"%i%@", resort.totalSnowAmount, resort.totalSnowMetricSymbol];
         
         self.addedLabel.text = [NSString stringWithFormat:@"%i%@", resort.todaysSnowAmount, resort.todaysSnowMetricSymbol];
