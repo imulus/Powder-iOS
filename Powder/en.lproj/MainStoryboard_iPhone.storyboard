@@ -74,12 +74,12 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <view contentMode="scaleToFill" id="iY8-hf-IyW" customClass="ResortOpenClosedView">
-                                                    <rect key="frame" x="15" y="35" width="62" height="23"/>
+                                                    <rect key="frame" x="15" y="32" width="62" height="23"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                                 </view>
                                                 <view contentMode="scaleToFill" id="S1w-zr-i1m" customClass="ResortConditionsView">
-                                                    <rect key="frame" x="78" y="35" width="113" height="23"/>
+                                                    <rect key="frame" x="78" y="32" width="113" height="23"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                                 </view>
