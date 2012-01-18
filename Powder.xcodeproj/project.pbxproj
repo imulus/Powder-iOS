@@ -22,6 +22,10 @@
 		0266330814A403050069657C /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */; };
 		0266330B14A403050069657C /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0266330914A403050069657C /* MainStoryboard_iPad.storyboard */; };
 		027DE89F14AA61C80070F022 /* FavoriteResortTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */; };
+		027F70DD14C6AF6D001F1498 /* UIView+Categories.m in Sources */ = {isa = PBXBuildFile; fileRef = 027F70DC14C6AF6D001F1498 /* UIView+Categories.m */; };
+		027F70F814C6B9CC001F1498 /* ResortOpenClosedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 027F70F514C6B9CC001F1498 /* ResortOpenClosedView.m */; };
+		027F70F914C6B9CC001F1498 /* StretchingStatusView.m in Sources */ = {isa = PBXBuildFile; fileRef = 027F70F714C6B9CC001F1498 /* StretchingStatusView.m */; };
+		027F70FC14C6B9DE001F1498 /* ResortConditionsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 027F70FB14C6B9DE001F1498 /* ResortConditionsView.m */; };
 		029071F814B2450F00549D55 /* PowderAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 029071F714B2450F00549D55 /* PowderAPI.m */; };
 		02C2AAA914C3F6AF00242F9E /* StretchingStatusView.m in Sources */ = {isa = PBXBuildFile; fileRef = 02C2AAA814C3F6AF00242F9E /* StretchingStatusView.m */; };
 		02C2AAAD14C3FDC500242F9E /* ResortConditionsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 02C2AAAC14C3FDC500242F9E /* ResortConditionsView.m */; };
@@ -74,11 +78,17 @@
 		0266330A14A403050069657C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		027DE89D14AA61C80070F022 /* FavoriteResortTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FavoriteResortTableViewCell.h; path = Code/FavoriteResortTableViewCell.h; sourceTree = "<group>"; };
 		027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FavoriteResortTableViewCell.m; path = Code/FavoriteResortTableViewCell.m; sourceTree = "<group>"; };
+		027F70DB14C6AF6D001F1498 /* UIView+Categories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+Categories.h"; path = "Code/UIView+Categories.h"; sourceTree = "<group>"; };
+		027F70DC14C6AF6D001F1498 /* UIView+Categories.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+Categories.m"; path = "Code/UIView+Categories.m"; sourceTree = "<group>"; };
+		027F70F414C6B9CC001F1498 /* ResortOpenClosedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ResortOpenClosedView.h; path = Code/ResortOpenClosedView.h; sourceTree = "<group>"; };
+		027F70F514C6B9CC001F1498 /* ResortOpenClosedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ResortOpenClosedView.m; path = Code/ResortOpenClosedView.m; sourceTree = "<group>"; };
+		027F70F614C6B9CC001F1498 /* StretchingStatusView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StretchingStatusView.h; path = Code/StretchingStatusView.h; sourceTree = "<group>"; };
+		027F70F714C6B9CC001F1498 /* StretchingStatusView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StretchingStatusView.m; path = Code/StretchingStatusView.m; sourceTree = "<group>"; };
+		027F70FA14C6B9DE001F1498 /* ResortConditionsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResortConditionsView.h; sourceTree = "<group>"; };
+		027F70FB14C6B9DE001F1498 /* ResortConditionsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResortConditionsView.m; sourceTree = "<group>"; };
 		029071F614B2450F00549D55 /* PowderAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PowderAPI.h; path = Code/PowderAPI.h; sourceTree = "<group>"; };
 		029071F714B2450F00549D55 /* PowderAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PowderAPI.m; path = Code/PowderAPI.m; sourceTree = "<group>"; };
-		02C2AAA714C3F6AF00242F9E /* StretchingStatusView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StretchingStatusView.h; path = Code/StretchingStatusView.h; sourceTree = "<group>"; };
 		02C2AAA814C3F6AF00242F9E /* StretchingStatusView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StretchingStatusView.m; path = Code/StretchingStatusView.m; sourceTree = "<group>"; };
-		02C2AAAB14C3FDC500242F9E /* ResortConditionsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResortConditionsView.h; sourceTree = "<group>"; };
 		02C2AAAC14C3FDC500242F9E /* ResortConditionsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResortConditionsView.m; sourceTree = "<group>"; };
 		02DA3AC414ABB7DF00C49DB9 /* Resort.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Resort.h; path = Code/Resort.h; sourceTree = "<group>"; };
 		02DA3AC514ABB7DF00C49DB9 /* Resort.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Resort.m; path = Code/Resort.m; sourceTree = "<group>"; };
@@ -86,7 +96,6 @@
 		02EF16E414C2789400A68E5F /* green-bubble@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "green-bubble@2x.png"; path = "Assets/Images/green-bubble@2x.png"; sourceTree = "<group>"; };
 		02EF16E514C2789400A68E5F /* orange-bubble@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "orange-bubble@2x.png"; path = "Assets/Images/orange-bubble@2x.png"; sourceTree = "<group>"; };
 		02EF16E614C2789400A68E5F /* subtle-gradient@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "subtle-gradient@2x.png"; path = "Assets/Images/subtle-gradient@2x.png"; sourceTree = "<group>"; };
-		02EF16EC14C2831200A68E5F /* ResortOpenClosedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ResortOpenClosedView.h; path = Code/ResortOpenClosedView.h; sourceTree = "<group>"; };
 		02EF16ED14C2831200A68E5F /* ResortOpenClosedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ResortOpenClosedView.m; path = Code/ResortOpenClosedView.m; sourceTree = "<group>"; };
 		02F91F5314C0F82900FF3059 /* NSObject+SBJson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJson.h"; sourceTree = "<group>"; };
 		02F91F5414C0F82900FF3059 /* NSObject+SBJson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJson.m"; sourceTree = "<group>"; };
@@ -174,6 +183,7 @@
 			children = (
 				02DA3AC314ABB77400C49DB9 /* Models */,
 				02DA3AC014ABB00200C49DB9 /* Views */,
+				027F70DF14C6AFBD001F1498 /* Categories */,
 				027DE89B14AA5E1C0070F022 /* View Controllers */,
 				0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */,
 				0266330914A403050069657C /* MainStoryboard_iPad.storyboard */,
@@ -213,15 +223,24 @@
 			name = "View Controllers";
 			sourceTree = "<group>";
 		};
-		029ABEC814C4AAAB0091E87E /* Status Views */ = {
+		027F70DF14C6AFBD001F1498 /* Categories */ = {
 			isa = PBXGroup;
 			children = (
-				02EF16EC14C2831200A68E5F /* ResortOpenClosedView.h */,
-				02EF16ED14C2831200A68E5F /* ResortOpenClosedView.m */,
-				02C2AAA714C3F6AF00242F9E /* StretchingStatusView.h */,
-				02C2AAA814C3F6AF00242F9E /* StretchingStatusView.m */,
-				02C2AAAB14C3FDC500242F9E /* ResortConditionsView.h */,
-				02C2AAAC14C3FDC500242F9E /* ResortConditionsView.m */,
+				027F70DB14C6AF6D001F1498 /* UIView+Categories.h */,
+				027F70DC14C6AF6D001F1498 /* UIView+Categories.m */,
+			);
+			name = Categories;
+			sourceTree = "<group>";
+		};
+		027F70F214C6B9A8001F1498 /* Status Views */ = {
+			isa = PBXGroup;
+			children = (
+				027F70FA14C6B9DE001F1498 /* ResortConditionsView.h */,
+				027F70FB14C6B9DE001F1498 /* ResortConditionsView.m */,
+				027F70F414C6B9CC001F1498 /* ResortOpenClosedView.h */,
+				027F70F514C6B9CC001F1498 /* ResortOpenClosedView.m */,
+				027F70F614C6B9CC001F1498 /* StretchingStatusView.h */,
+				027F70F714C6B9CC001F1498 /* StretchingStatusView.m */,
 			);
 			name = "Status Views";
 			sourceTree = "<group>";
@@ -229,7 +248,7 @@
 		02DA3AC014ABB00200C49DB9 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				029ABEC814C4AAAB0091E87E /* Status Views */,
+				027F70F214C6B9A8001F1498 /* Status Views */,
 				02DA3AC214ABB01200C49DB9 /* Table View Cells */,
 			);
 			name = Views;
@@ -401,6 +420,10 @@
 				02EF16EE14C2831200A68E5F /* ResortOpenClosedView.m in Sources */,
 				02C2AAA914C3F6AF00242F9E /* StretchingStatusView.m in Sources */,
 				02C2AAAD14C3FDC500242F9E /* ResortConditionsView.m in Sources */,
+				027F70DD14C6AF6D001F1498 /* UIView+Categories.m in Sources */,
+				027F70F814C6B9CC001F1498 /* ResortOpenClosedView.m in Sources */,
+				027F70F914C6B9CC001F1498 /* StretchingStatusView.m in Sources */,
+				027F70FC14C6B9DE001F1498 /* ResortConditionsView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

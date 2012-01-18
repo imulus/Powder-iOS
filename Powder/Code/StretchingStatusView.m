@@ -10,7 +10,17 @@
 
 @implementation StretchingStatusView
 
+#define kHorizontalPadding 10
+
 @synthesize text = _text;
+
+static UIFont *s_statusLabelFont;
+
++ (void)initialize
+{
+    s_statusLabelFont = [UIFont fontWithName:@"HelveticaNeue-Bold"
+                                        size:15];
+}
 
 - (id)initWithFrame:(CGRect)frame
 {
@@ -28,7 +38,32 @@
 
 - (void)setText:(NSString *)text
 {
+    [self setText:text withMaximumWidth:INT_MAX];
+}
+
+- (void)setText:(NSString *)text withMaximumWidth:(NSUInteger)width
+{
     _text = text;
+    
+    NSUInteger maxLabelWidth = width - (2 * kHorizontalPadding);
+    
+    //get the size of the string with our font
+    CGFloat calculatedWidth = [text sizeWithFont:s_statusLabelFont].width;
+    
+    //set the frame to the appropriate width based on
+    //what they want as the max width
+    CGRect labelFrame = _statusLabel.frame;
+    labelFrame.size.width = MIN(maxLabelWidth, calculatedWidth);
+    
+    [_statusLabel setFrame:labelFrame];
+    
+    //adjust our own bounds to fix the label
+    CGRect frame = [self frame];
+    frame.size.width = _statusLabel.frame.size.width + (2 * kHorizontalPadding);
+    self.frame = frame;
+    _statusBackgroundView.frame = self.bounds;
+    
+    //now set the text in the label
     [_statusLabel setText:text];
 }
 
@@ -41,15 +76,14 @@
     [self addSubview:_statusBackgroundView];
     
     CGRect labelFrame = [self bounds];
-    labelFrame.origin.x = 5;
-    labelFrame.size.width = labelFrame.size.width - 10;
+    labelFrame.origin.x = kHorizontalPadding;
+    labelFrame.size.width = labelFrame.size.width - (kHorizontalPadding * 2);
     labelFrame.origin.y = labelFrame.origin.y - 2;
     _statusLabel = [[UILabel alloc] initWithFrame:labelFrame];
     [_statusLabel setBackgroundColor:[UIColor clearColor]];
     [_statusLabel setTextAlignment:UITextAlignmentCenter];
     [_statusLabel setTextColor:[UIColor whiteColor]];
-    [_statusLabel setFont:[UIFont fontWithName:@"HelveticaNeue-Bold"
-                                          size:15]];
+    [_statusLabel setFont:s_statusLabelFont];
     [_statusLabel setAdjustsFontSizeToFitWidth:YES];
     [_statusBackgroundView addSubview:_statusLabel];
 }

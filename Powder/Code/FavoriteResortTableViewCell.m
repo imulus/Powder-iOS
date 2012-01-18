@@ -16,6 +16,8 @@
 
 @implementation FavoriteResortTableViewCell
 
+#define kInfoLabelsWidth 180
+
 @synthesize resortNameLabel = _resortNameLabel;
 @synthesize openCloseView = _openCloseView;
 @synthesize conditionView = _conditionView;
@@ -48,6 +50,7 @@
     UIImageView *gradientBackgroundView = [[UIImageView alloc] initWithFrame:self.bounds];
     [gradientBackgroundView setImage:[UIImage imageNamed:@"subtle-gradient.png"]];
     self.backgroundView = gradientBackgroundView;
+    self.selectionStyle = UITableViewCellSelectionStyleNone;
 }
 
 - (void)setFavorite:(Favorite *)favorite
@@ -77,9 +80,15 @@
             self.openCloseView.open = NO;
         }
         
-        self.conditionView.text = resort.currentConditions;
-        self.baseLabel.text =  [NSString stringWithFormat:@"%i%@", resort.totalSnowAmount, resort.totalSnowMetricSymbol];
+        CGFloat widthAvailable = kInfoLabelsWidth;
         
+        widthAvailable -= self.openCloseView.frame.size.width;
+        
+        [self.conditionView setText:resort.currentConditions withMaximumWidth:widthAvailable];
+        [self.conditionView setFrameXOrigin:[self.openCloseView rightBorderXValue]];
+        
+        
+        self.baseLabel.text =  [NSString stringWithFormat:@"%i%@", resort.totalSnowAmount, resort.totalSnowMetricSymbol];
         self.addedLabel.text = [NSString stringWithFormat:@"%i%@", resort.todaysSnowAmount, resort.todaysSnowMetricSymbol];
     }
     

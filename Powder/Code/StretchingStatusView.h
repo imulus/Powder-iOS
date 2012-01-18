@@ -16,6 +16,7 @@
 
 @property (nonatomic, strong) NSString *text;
 
+- (void)setText:(NSString *)text withMaximumWidth:(NSUInteger)width;
 - (void)setupView;
 
 
