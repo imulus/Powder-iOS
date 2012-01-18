@@ -35,7 +35,7 @@
     }
     else
     {
-        backgroundImage = [UIImage imageNamed:@"green-bubble.png"];
+        backgroundImage = [UIImage imageNamed:@"orange-bubble.png"];
         [self setText:@"Closed"];
     }
     

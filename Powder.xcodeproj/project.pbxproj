@@ -22,6 +22,7 @@
 		0266330814A403050069657C /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */; };
 		0266330B14A403050069657C /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0266330914A403050069657C /* MainStoryboard_iPad.storyboard */; };
 		027DE89F14AA61C80070F022 /* FavoriteResortTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */; };
+		027F70DD14C6AF6D001F1498 /* UIView+Categories.m in Sources */ = {isa = PBXBuildFile; fileRef = 027F70DC14C6AF6D001F1498 /* UIView+Categories.m */; };
 		029071F814B2450F00549D55 /* PowderAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 029071F714B2450F00549D55 /* PowderAPI.m */; };
 		02C2AAA914C3F6AF00242F9E /* StretchingStatusView.m in Sources */ = {isa = PBXBuildFile; fileRef = 02C2AAA814C3F6AF00242F9E /* StretchingStatusView.m */; };
 		02C2AAAD14C3FDC500242F9E /* ResortConditionsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 02C2AAAC14C3FDC500242F9E /* ResortConditionsView.m */; };
@@ -74,6 +75,8 @@
 		0266330A14A403050069657C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		027DE89D14AA61C80070F022 /* FavoriteResortTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FavoriteResortTableViewCell.h; path = Code/FavoriteResortTableViewCell.h; sourceTree = "<group>"; };
 		027DE89E14AA61C80070F022 /* FavoriteResortTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FavoriteResortTableViewCell.m; path = Code/FavoriteResortTableViewCell.m; sourceTree = "<group>"; };
+		027F70DB14C6AF6D001F1498 /* UIView+Categories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+Categories.h"; path = "Code/UIView+Categories.h"; sourceTree = "<group>"; };
+		027F70DC14C6AF6D001F1498 /* UIView+Categories.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+Categories.m"; path = "Code/UIView+Categories.m"; sourceTree = "<group>"; };
 		029071F614B2450F00549D55 /* PowderAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PowderAPI.h; path = Code/PowderAPI.h; sourceTree = "<group>"; };
 		029071F714B2450F00549D55 /* PowderAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PowderAPI.m; path = Code/PowderAPI.m; sourceTree = "<group>"; };
 		02C2AAA714C3F6AF00242F9E /* StretchingStatusView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StretchingStatusView.h; path = Code/StretchingStatusView.h; sourceTree = "<group>"; };
@@ -174,6 +177,7 @@
 			children = (
 				02DA3AC314ABB77400C49DB9 /* Models */,
 				02DA3AC014ABB00200C49DB9 /* Views */,
+				027F70DF14C6AFBD001F1498 /* Categories */,
 				027DE89B14AA5E1C0070F022 /* View Controllers */,
 				0266330614A403050069657C /* MainStoryboard_iPhone.storyboard */,
 				0266330914A403050069657C /* MainStoryboard_iPad.storyboard */,
@@ -211,6 +215,15 @@
 				0253B61514B6A2C90075DFCA /* PowderFavoritesEditViewController.m */,
 			);
 			name = "View Controllers";
+			sourceTree = "<group>";
+		};
+		027F70DF14C6AFBD001F1498 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				027F70DB14C6AF6D001F1498 /* UIView+Categories.h */,
+				027F70DC14C6AF6D001F1498 /* UIView+Categories.m */,
+			);
+			name = Categories;
 			sourceTree = "<group>";
 		};
 		02DA3AC014ABB00200C49DB9 /* Views */ = {
@@ -393,6 +406,7 @@
 				02EF16EE14C2831200A68E5F /* ResortOpenClosedView.m in Sources */,
 				02C2AAA914C3F6AF00242F9E /* StretchingStatusView.m in Sources */,
 				02C2AAAD14C3FDC500242F9E /* ResortConditionsView.m in Sources */,
+				027F70DD14C6AF6D001F1498 /* UIView+Categories.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
