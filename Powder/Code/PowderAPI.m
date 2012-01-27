@@ -74,8 +74,10 @@
 {
     
     NSData *resortData = [[NSData alloc] initWithContentsOfURL:[self resortsUrl]];
+    
+    NSString *resortsString = [[NSString alloc] initWithData:resortData encoding:NSUTF8StringEncoding];
 
-    NSArray *resorts =  [NSJSONSerialization JSONObjectWithData:resortData options:NSJSONReadingAllowFragments error:nil];
+    NSArray *resorts =  [resortsString JSONValue];
     
     NSMutableArray *newResorts = [[NSMutableArray alloc] init];
     //create some temporary objects to show in our display

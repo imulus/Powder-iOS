@@ -15,8 +15,6 @@
     PowderAPI *_powderAPI;
 }
 
-- (void)loadFavorites;
-
 @end
 
 @implementation PowderMainViewController
